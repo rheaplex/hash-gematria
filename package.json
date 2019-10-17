@@ -1,0 +1,15 @@
+{
+  "name": "hash-gematria",
+  "version": "1.0.0",
+  "description": "Find words with matching hash prefixes.",
+  "main": "hash-gematria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhea Myers <rob@rheaplex.og>",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.0.2"
+  }
+}
