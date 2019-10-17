@@ -178,4 +178,5 @@ const output = {
   lowercase: options.lowercase,
   results: results
 };
+
 console.log(JSON.stringify(output, null, 2));

@@ -34,7 +34,7 @@ const fs = require('fs');
 
 // The length of the shared prefix / match at the start (left) of the hash
 const MIN_PREFIX_LENGTH = 4;
-const MAX_PREFIX_LENGTH = 16;
+const MAX_PREFIX_LENGTH = 8;
 
 // The number of strings with the same hash prefix that we select
 const MIN_COUNT = 2;
@@ -159,7 +159,7 @@ for (let i = MIN_COUNT; i <= MAX_COUNT; i++) {
   for (let j = MIN_PREFIX_LENGTH; j <= MAX_PREFIX_LENGTH; j++) {
     const matchesCopy = {};
     Object.keys(matches[j]).forEach(start => {
-      if(matches[j][start].length >= i) {
+      if(matches[j][start].length == i) {
         matchesCopy[start] = matches[j][start];
       }
     });
@@ -178,4 +178,5 @@ const output = {
   lowercase: options.lowercase,
   results: results
 };
+
 console.log(JSON.stringify(output, null, 2));
