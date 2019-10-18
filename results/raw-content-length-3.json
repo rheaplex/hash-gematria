@@ -1,0 +1,4756 @@
+{
+  "dictionary": "/etc/dictionaries-common/words",
+  "algorithm": "sha256",
+  "results": {
+    "Aladdin": {
+      "hash": "%\\\u0013;ç¥Ñ/\"satÀ14\u001eq\u0014K6nÔ{zÑÑ¶M²ý",
+      "contains": [
+        "sat"
+      ]
+    },
+    "Allan": {
+      "hash": "(#WhYµjn\u0011\u0018j%5a\u0017àÖ}\u000fÿÒ3ñÞUXX\u0006X=\u0001",
+      "contains": [
+        "why"
+      ]
+    },
+    "Alva": {
+      "hash": "ã}É¤³ù_iáß\u001f®\u0015hAh\u0004ù#^X\u0019êc\u0011°¶",
+      "contains": [
+        "hah"
+      ]
+    },
+    "Amerinds": {
+      "hash": "ÅâloWh! tEL\u0014WX a\r\u000bI1Üû\u0002=m³µ®{",
+      "contains": [
+        "low"
+      ]
+    },
+    "Andrews": {
+      "hash": "^§JÀ\u001cÑ\u000e­\\HÛQ\rn\u001cSë(uF%ã'õpOl&Z",
+      "contains": [
+        "pol"
+      ]
+    },
+    "Athabasca": {
+      "hash": "<S²¼¨ÆîUÊBX¢bIb\u00049ÈÌ\u0002 ú\u000erS",
+      "contains": [
+        "bib"
+      ]
+    },
+    "Bacchanalia": {
+      "hash": "j'{aVA)0ËRµ¿X-ÕX\nÌs}\u0010dÐ}AáÊ2ö",
+      "contains": [
+        "Ava"
+      ]
+    },
+    "Bahamas": {
+      "hash": "Xù\u001a*ïýn\r\u001a:L\u0013õTkå \u0017O½HÂm­\fmci÷¼",
+      "contains": [
+        "MCI"
+      ]
+    },
+    "Bangladeshis": {
+      "hash": ":Äì¬xeÔWÜ+BoG~Õ6]¾÷Sj\u001c´\u00188\u0002-Ãù",
+      "contains": [
+        "bog"
+      ]
+    },
+    "Bardeen": {
+      "hash": "Û§\u001eÓ+©ýÃ´Âép»Fç·â\u0011áÉJê¼ÌSÝÿORb",
+      "contains": [
+        "orb"
+      ]
+    },
+    "Bjork": {
+      "hash": "æa°;X[üc-T§`\u0000ÊGil,¸\u001cÑÿ\\µñûYt",
+      "contains": [
+        "Gil"
+      ]
+    },
+    "Bohemian": {
+      "hash": "¤Ô*v\u0011D8¡:[p­ÒºmttET\u0003d7^\ty5i*7",
+      "contains": [
+        "Tet"
+      ]
+    },
+    "Bragg": {
+      "hash": "Ì\u0012\u0005J\u0007[¾ï1?)ópUPU|©\u0014°\bf*©ãz&¾",
+      "contains": [
+        "pup"
+      ]
+    },
+    "Campinas": {
+      "hash": "3þ\u0018pgBö«§þ\u0010ÄãösNamEnå³&\b",
+      "contains": [
+        "Nam"
+      ]
+    },
+    "Chihuahuas": {
+      "hash": "ø\u0001£o½ð&{emSc:¡çÞº\u001d\u0019÷á¯\u0000âô[u\u0018Õ",
+      "contains": [
+        "ems"
+      ]
+    },
+    "Claude": {
+      "hash": "\u0006\u0015W\u000f¡6l]À%\u0000\u00102\u0007\u0007doW÷,í«\u001dûsÙ^­æ",
+      "contains": [
+        "Dow"
+      ]
+    },
+    "Colin": {
+      "hash": "t¦n-¸z7ÝØo\u0012-­Ç»C¹\u0003òpEr¬[­!\u0012ä",
+      "contains": [
+        "per"
+      ]
+    },
+    "Communions": {
+      "hash": "Rkfn¦1×iù\u001cÚqo¢3z`ý»sKiºFå3Õ\u001eð",
+      "contains": [
+        "ski"
+      ]
+    },
+    "Condorcet": {
+      "hash": "\u000eñ[A\u0002H\u001cFeNñfâ§`}W×\u0017BÉ\u0006k{d\u000e°",
+      "contains": [
+        "fen"
+      ]
+    },
+    "Dakar": {
+      "hash": "l\u0019Ù\"_ÃZÜPUb²æSFªÎÜ/é´ãÒ=|¾´£®",
+      "contains": [
+        "pub"
+      ]
+    },
+    "Davao": {
+      "hash": "7Æ?wÔÄÅ?9\u000fã2H\"¢Ç\u0004K3¢É¯BUN¿",
+      "contains": [
+        "bun"
+      ]
+    },
+    "Dionne": {
+      "hash": "?`|ÈYrw0ùC¥QîÍæMilOMQ\u0007nµK\rÙñìô",
+      "contains": [
+        "Milo",
+        "mil"
+      ]
+    },
+    "Dooley": {
+      "hash": "\u001f5¾¤¹_\u00018\u001a,v|kÈqr{ »#°¥§orFlyÏ",
+      "contains": [
+        "fly"
+      ]
+    },
+    "Episcopal": {
+      "hash": "APTã,N--\u0018×Z\u001d/ÙÒ.«Ïx¼%\u001eëW\"ë",
+      "contains": [
+        "apt"
+      ]
+    },
+    "Estella": {
+      "hash": "j½¸òÛÄ&+~Q£Àõþc\r¶ò\u0017¿ÀØ\u0013Lin$\t£",
+      "contains": [
+        "Lin"
+      ]
+    },
+    "Estonians": {
+      "hash": "\u0010LYer\r\u001f_zL¸ºqÂ£\u0016Â9\u0016Ê\u0019^\u0003+o\u0005Á",
+      "contains": [
+        "lye"
+      ]
+    },
+    "Ethernet": {
+      "hash": "h\u001e\u0012\t(e\u001d\f6Dó\u001cI\fÁ=Ë\\YPItF«³K±\u0004.È",
+      "contains": [
+        "pit"
+      ]
+    },
+    "Excellency": {
+      "hash": "»\u0002iEJ:LAB\u001dª²\u0007L×$oâaÁànpLq]",
+      "contains": [
+        "lab"
+      ]
+    },
+    "Fairbanks": {
+      "hash": "u\u0007Ã\u0013'`é[-\u0000*\u0002tHOk\u0003ªs\u0007h# H;»/\r",
+      "contains": [
+        "tho"
+      ]
+    },
+    "Falkland": {
+      "hash": "çrEXÙ·\\\u0014fÊVÊX¬OdÚS-\u0007\u0018mêÅ¸\u0016ÐÏC×",
+      "contains": [
+        "Rex"
+      ]
+    },
+    "Fawkes": {
+      "hash": "KID¿j¹Êõ\u000f¦\u001e%òò\u0017³øª7@S@ä|êKÔûW\u0003\u000b",
+      "contains": [
+        "kid"
+      ]
+    },
+    "Getty": {
+      "hash": "E{Çº\u0018·½ÿ\u0013\u0001\u001e»6ñ\u0010$InGàAÝS\u0015û\u0005",
+      "contains": [
+        "ING"
+      ]
+    },
+    "Gillian": {
+      "hash": "£o²ÌøÑMBib_ñB\u001d\" È-\t±¥³J£Å\u0014ªì}ì",
+      "contains": [
+        "bib"
+      ]
+    },
+    "Gompers": {
+      "hash": "1®XÎíDbî\u0018X]u\u000bäÛj\u000eVvò1à©\u001cbêhES",
+      "contains": [
+        "hes"
+      ]
+    },
+    "Goolagong": {
+      "hash": "\u001dÐÃ]~döíÃs)=\bHOs¿5Üóã«Öp'î4¸M",
+      "contains": [
+        "hos"
+      ]
+    },
+    "Hindustan": {
+      "hash": "ÁµZ¿Û£½!·wIONIoÛrk]ñÙ¿sKl_",
+      "contains": [
+        "ion"
+      ]
+    },
+    "Izhevsk": {
+      "hash": "®<Ø\u001fGíçuþKLmitZ¸\"\u0003%m\n3v\"'",
+      "contains": [
+        "MIT"
+      ]
+    },
+    "Johannesburg": {
+      "hash": "\u000fÝ\u001dO\u0011×¶o<87\u0000\tÚZÿ;\u0002ëèêzitg2¡V",
+      "contains": [
+        "zit"
+      ]
+    },
+    "Jonson": {
+      "hash": "ç~£R\u000e\u001aJtôÀ\u0004sÿØ¹\ra°Èþ¸hid0¨",
+      "contains": [
+        "hid"
+      ]
+    },
+    "Juno": {
+      "hash": "Ï²O#Qu=ØØ\u000eLE9ä\u0005\u0002\u0000¡Ñ¨\"F\u0013yUP",
+      "contains": [
+        "yup"
+      ]
+    },
+    "Kaohsiung": {
+      "hash": "ÐiN^\f\t¡¬Qé°\u0018\" µobL&è-PEEîüò»`",
+      "contains": [
+        "pee"
+      ]
+    },
+    "Khoisan": {
+      "hash": "îþ¬-gÜyæH\n´Mþ@òD)Û\u0018ðÛå\u000fgtEWªb¤",
+      "contains": [
+        "GTE"
+      ]
+    },
+    "Kirinyaga": {
+      "hash": "l\u0001\tf\nuJ.$ADAÙÃNæ \u0002\u000fò£%2A\u0017Ã;äc",
+      "contains": [
+        "Ada"
+      ]
+    },
+    "Koch": {
+      "hash": "¤4¬º7íÑHµö\u001c\u0016µÿ:}ëK`endK\n#ØF±ØÈ9À",
+      "contains": [
+        "end"
+      ]
+    },
+    "Kropotkin": {
+      "hash": "i{OXôU^DF¶\u0007x\u0002\u0007= øwð\fPzÉï\u0013iNn",
+      "contains": [
+        "inn"
+      ]
+    },
+    "Lao": {
+      "hash": "m!8ÆòöSisþ8?¾ý ²(1\u0015jf'ö$yÌj\tG]",
+      "contains": [
+        "sis"
+      ]
+    },
+    "Lapland": {
+      "hash": "\u0003Þ\u0018ªdòX¥¥-\u0005ìõ\u0012³®æ\n\u0001WOTÅ¦",
+      "contains": [
+        "wot"
+      ]
+    },
+    "Lebanon": {
+      "hash": "ãMÖ\u0016¹K¢TUG¹Ê&¹²u×\u0016\u001c\u0017$V4ÁUã \u001f",
+      "contains": [
+        "tug"
+      ]
+    },
+    "Lew": {
+      "hash": "\u0017L4uöü·¯0'¯ÆßÌ6¶»VØe\tFOg\u000fÃq7",
+      "contains": [
+        "fog"
+      ]
+    },
+    "Lillie": {
+      "hash": "\u0013Í\u0004Ã@\u0006½\u0002\fÀ`?\u001a$µN\u0015ÆrÒ~ÛNDOWùOÖ",
+      "contains": [
+        "Dow"
+      ]
+    },
+    "Linux": {
+      "hash": "H(æ\u0002GÁcoW·Dj1NY\u0012µ=@\u0006\u001cÈQ¡D \u00045Oí",
+      "contains": [
+        "cow"
+      ]
+    },
+    "Ludhiana": {
+      "hash": "U\u0000gÆwË¬bDþ\u0016VaT\u0014=J-3\u0003\u0007\u0015\u0013¼Ñ÷¡n\r",
+      "contains": [
+        "vat"
+      ]
+    },
+    "Macintosh": {
+      "hash": "ºÁ;Ç\u0012=ÄËÊWÄ9VÝmû/SºI\u001cÖQÝ-ïiYEP",
+      "contains": [
+        "yep"
+      ]
+    },
+    "Mallarmé": {
+      "hash": "Y)L\u0000©ø?ÈÁ}Ç4B}pó;\u0019-ö]L-ÐaXei*",
+      "contains": [
+        "axe"
+      ]
+    },
+    "Marine": {
+      "hash": "\u001d¢\u000bDvBÞªoBluÈµa>-÷ìªy°\u0013`\u0006ùJQYA\u0010",
+      "contains": [
+        "Blu"
+      ]
+    },
+    "McLean": {
+      "hash": "Ã\u0012HHÓ\u001aÐp+ôÕµR_AntH³ùôr¿YÏ<Þ",
+      "contains": [
+        "ant"
+      ]
+    },
+    "Melbourne": {
+      "hash": "Tp\u0016ZctWoTEa£ÑY,EçÔÔÞ<AÌ³ÔÙÛ",
+      "contains": [
+        "two",
+        "wot"
+      ]
+    },
+    "Memphis": {
+      "hash": "\u0003NETê£\u0013Òz\b*öu¦èØ¹¯\u0014Û¢//\u001eúd",
+      "contains": [
+        "net"
+      ]
+    },
+    "Mesa": {
+      "hash": "äeÎx$\b\t öê¹QÿsoDó[#i\u0006HÔÑ4³ÌgØÚ",
+      "contains": [
+        "sod"
+      ]
+    },
+    "Mickey": {
+      "hash": "\u0018Ul\u0017hACaT(gÓ\u0003#^¯cÍæßÝiý³bNËW\u0001Q",
+      "contains": [
+        "cat"
+      ]
+    },
+    "NORAD": {
+      "hash": "X\u000eëÛ\u0011 ã\u0010©Á»\u0014\u0012ê\rGotÄ\"\u0016\u0017",
+      "contains": [
+        "got"
+      ]
+    },
+    "Napoleonic": {
+      "hash": "`ibag!ëÌÂ\u00159f~^û\u001a¢5»§MÛ*gV¥¾n",
+      "contains": [
+        "bag"
+      ]
+    },
+    "Nebraska": {
+      "hash": "\u000f'°TEEeZ`ÛU\u001eÇ!<àÖR\u0003,H÷Ôæn:²<",
+      "contains": [
+        "tee"
+      ]
+    },
+    "Olav": {
+      "hash": "à\u0014LÝRìETjýÄË\u0005îÄÛ*\u0010÷RâHaSè&\u0012",
+      "contains": [
+        "has"
+      ]
+    },
+    "Omahas": {
+      "hash": "\u0016~ùøÀu%ãSosË¬Ëô\u0013`*:¶ÍtDÓ[¡!u",
+      "contains": [
+        "sos"
+      ]
+    },
+    "Palisades": {
+      "hash": "\u0013óçèÌf$ÛñÔ\u000buReDµìÌ~ê2§ÂAxj~\u0005¯»",
+      "contains": [
+        "Red",
+        "red"
+      ]
+    },
+    "Palmerston": {
+      "hash": "õöÉAl\u001d¡f,\bm\u0002æ>zôhis÷HÖ¬LÒÇ8Í®\u001d",
+      "contains": [
+        "his"
+      ]
+    },
+    "Peck": {
+      "hash": "L èh7CUÀ\fGALUúÛdÝ\rÁ ~-aûüç",
+      "contains": [
+        "gal"
+      ]
+    },
+    "Pershing": {
+      "hash": "úáËBÓºA\u0016+êÞæ½gRuBò4\u0018½\u00045%ÜÉÓÑ",
+      "contains": [
+        "grub",
+        "rub"
+      ]
+    },
+    "Perth": {
+      "hash": "Á¹qâ\u0014}?¶\u0017\u001ffÛúILAI`Dúá2>ºë\u0014\u0007Ç",
+      "contains": [
+        "Ila"
+      ]
+    },
+    "Politburo": {
+      "hash": "~ìµi»Å^UÐ\u000e\"T¸k\u0003B\"¢òSÒ\u0017ì<`UzI ",
+      "contains": [
+        "Uzi"
+      ]
+    },
+    "Rhee": {
+      "hash": "c°\u0013ú\u001aÚ²jÉ¢dimÚ»¥\u0004æ'R(G«\r»*",
+      "contains": [
+        "dim"
+      ]
+    },
+    "Richard": {
+      "hash": "\u001dë\n;u\r\u000eJL!Ü\u0001siT®\\ÊÆTÅ=EV:\u001fYY",
+      "contains": [
+        "sit"
+      ]
+    },
+    "Rosecrans": {
+      "hash": "\u0017eú_ëo½\u0012L\u0006Q²fô~»®\u0000ØtërhO\u001bn",
+      "contains": [
+        "rho"
+      ]
+    },
+    "Ruthie": {
+      "hash": "f)L\u0010Ð&Ó°Õ\u001dÍùéî}]÷ê\r\u0012CrUB\u0010Äýê",
+      "contains": [
+        "rub"
+      ]
+    },
+    "Saki": {
+      "hash": "mhÅb!È[T\u0004\"3ÑC±puS}Ã%\u0012p\fCF}4Ì\u0003",
+      "contains": [
+        "pus"
+      ]
+    },
+    "Seinfeld": {
+      "hash": "VIa\u000f¦4?ô­ÜÄ&ì×]Ñ!¢(hC²i73û\u0002ìg\u0002",
+      "contains": [
+        "via"
+      ]
+    },
+    "Steve": {
+      "hash": "o\u0007sÒbArÍ2*¿3ºz\"¡òõ#ªU\u000b]\u000eêõ½",
+      "contains": [
+        "bar"
+      ]
+    },
+    "Sudra": {
+      "hash": "×ðféK:Ý,Lð?PWæ°o/KÏÈøµsiD\u00176",
+      "contains": [
+        "Sid"
+      ]
+    },
+    "Sundanese": {
+      "hash": "jAbÝ,}\u001f\u0018ñ¯7c|ï)ÿ\fz÷$ÎÜ¶4â­ºóð",
+      "contains": [
+        "jab"
+      ]
+    },
+    "Telugu": {
+      "hash": "¤PK=\u000f÷þùÆ\u0001Ü'WeE?ú\nlGnÊ®,ôÂý&ð",
+      "contains": [
+        "wee"
+      ]
+    },
+    "Terrell": {
+      "hash": "tSg!8òDaYä® éÞ<ÎÄý\u0002mIýdj±\u00146H",
+      "contains": [
+        "Day",
+        "day"
+      ]
+    },
+    "Tetons": {
+      "hash": "ÙT.H±Ò(½mIaÑ¸\">?óÐI®FoúOw\u0018",
+      "contains": [
+        "Mia"
+      ]
+    },
+    "Thalia": {
+      "hash": "}ÝÊµÑYKZüÆDuH*ã¿×ZyÏkh¥T\f¶û\u0003}",
+      "contains": [
+        "duh"
+      ]
+    },
+    "Tuesday": {
+      "hash": "}ñÞ\u0012bñP\u0018}Y8¿dl5riph_m\u001eÆ9*\u001bb",
+      "contains": [
+        "rip"
+      ]
+    },
+    "Tuscon": {
+      "hash": "\t¨Ù¿\u0004-Sunøåíc©\"Ù}`dHU4£\u001dÜA;\u0012",
+      "contains": [
+        "sun"
+      ]
+    },
+    "Waring": {
+      "hash": "<®WBm\u0003\u0006ö<®\u0013xuM\u001d=\u001cÔ~\u0014Doce\u0007\u0005ò\n",
+      "contains": [
+        "doc"
+      ]
+    },
+    "Wichita": {
+      "hash": "ËK+?z_|rÇl\"ëvô«|\u0003RîFro\u0003uUm Q",
+      "contains": [
+        "fro"
+      ]
+    },
+    "Wimbledon": {
+      "hash": "ELk£$%$X\u0003õ÷\u0012âÛûÚ3:xË÷cIØ2Í$+ák0\u0004",
+      "contains": [
+        "elk"
+      ]
+    },
+    "Zealand": {
+      "hash": "\bt¸WDr´\u0003Üû(ãulo?Ö\u0010ÆÂà<®IÕµFAN",
+      "contains": [
+        "fan"
+      ]
+    },
+    "abjectly": {
+      "hash": "'\b\u0017.\u000eÉSHeî\u0007ÿG\u000eûn\u000fýÛ3æÛ\u0013mO\u001fD",
+      "contains": [
+        "she"
+      ]
+    },
+    "aborigines": {
+      "hash": "éL?ÁgUCÝ©?F%Sº¨ºg5Ó@l\u0010\nC\u0003öy:LET\u001c",
+      "contains": [
+        "let"
+      ]
+    },
+    "absinth": {
+      "hash": "\u0017À04¤åyÂ{f\u000eJfr¸XçÕNée&û=\fNk\u0014Ñ¸Ü",
+      "contains": [
+        "née"
+      ]
+    },
+    "absorbent": {
+      "hash": "ÁpWnÖb³\nJ\u001fu\n,7Ô,ý`å¯$fÍ\\¦7\u000f",
+      "contains": [
+        "pwn"
+      ]
+    },
+    "abstractnesses": {
+      "hash": "kðcú\"\u0014PaLý²eõÎb\u001fÕ¶\u001c\u0016±i¡J8É",
+      "contains": [
+        "pal"
+      ]
+    },
+    "acknowledgement": {
+      "hash": "òæÊ÷£Í~Ú½qwAd\b>y_Ï#×Ðe\u000e£©!r¨´îQ",
+      "contains": [
+        "wad"
+      ]
+    },
+    "acquiescing": {
+      "hash": "\u0018LiDÏ±\u0005¿(òË;è¡@×\u000b|XN¨+t\u0004C ÅÎH",
+      "contains": [
+        "lid"
+      ]
+    },
+    "adjournment": {
+      "hash": "Õ\u0014B\u0016ºRaPz\u0010Ê¡j\u0003ò\u000f2±\r\u0014üºýD'\u0003L\u001b",
+      "contains": [
+        "rap"
+      ]
+    },
+    "admixture": {
+      "hash": "\rnaTS¦\u0003ê+çëc]\u0014\u001f¡áx\u0004¿PIsk·a",
+      "contains": [
+        "Ats",
+        "Nat",
+        "pis"
+      ]
+    },
+    "admonitions": {
+      "hash": "JßÁM\u0003\u0013®äLit3ùV!jÎ¶»\u001dY.\u0017ìÇNóÇ",
+      "contains": [
+        "lit"
+      ]
+    },
+    "adventurously": {
+      "hash": "ùÏKLAB ïk\u0019wL\u001dc\u0003\u0012Û×]¡¦Éµ£¹\u001fÑ\u0004",
+      "contains": [
+        "lab"
+      ]
+    },
+    "allies": {
+      "hash": "0ÒIÇ\u0015aIMgw^#!hZ¸O\u0002¸\u0001²\u0002|E)\u0001â+",
+      "contains": [
+        "aim"
+      ]
+    },
+    "alphabetizes": {
+      "hash": "\u0015\u0011;îU9@!hvBA\u0011@\u000eS\u0007~ÄLÊ\u0001\u0019\u0005;~[Ë",
+      "contains": [
+        "VBA"
+      ]
+    },
+    "ambiances": {
+      "hash": "%L\f\u0016óÂt\u0018aÓµ×\u0017iõà\u0016æ¼óM~\u0017,Tog¨Ü",
+      "contains": [
+        "tog"
+      ]
+    },
+    "amble": {
+      "hash": "ó\u0007È¤kmaXÌ\u0013'Kïyõ;\rè2[í~áÐ\b$C_Ã",
+      "contains": [
+        "Max"
+      ]
+    },
+    "amnesiac": {
+      "hash": "yrÅH9ÐHG\"\u000e4WÇ\u0010ìn¼#\u00001LOT\b×u",
+      "contains": [
+        "Lot",
+        "lot"
+      ]
+    },
+    "amoebas": {
+      "hash": "µSYØÊ=yZFEZRµ(þVÑªòÍkþ(\u000bQ,\bTo",
+      "contains": [
+        "Fez",
+        "fez"
+      ]
+    },
+    "angora": {
+      "hash": "»GºA½þéõ§ù\t^]Þ-ÝÅWZmODö¨p`ÕäÛÊÍ",
+      "contains": [
+        "mod"
+      ]
+    },
+    "antelopes": {
+      "hash": "î)³)¦\u001a\u0011À×ï\u0019Ý}µá¶\u0013\u0017suMáë6\u001f\u0015ÏÃi£",
+      "contains": [
+        "sum"
+      ]
+    },
+    "antitoxin": {
+      "hash": "\u00170¶\u000bq+þÆI·õðh\u0018tImtdÀ\u001aVIpøÈY",
+      "contains": [
+        "Tim"
+      ]
+    },
+    "aphrodisiac": {
+      "hash": "*D[\\(i\u0013Ç\u0016ã\u0018¢E\u000e\bPyM84«±0@¿ÃËÙ\u0015",
+      "contains": [
+        "Pym"
+      ]
+    },
+    "armchair": {
+      "hash": "Zþ_\u000fcSTaO³u9xÆ\u0019wÌ±\u0003±Qe\"úØÌ6",
+      "contains": [
+        "Tao"
+      ]
+    },
+    "army": {
+      "hash": "²ý\\Û¢±HM´l&£Bop+1ôO\u0018ø\u0006ý&/4zc ",
+      "contains": [
+        "bop"
+      ]
+    },
+    "arose": {
+      "hash": "PN+CAtÅÝláZeg¹\u001b`4²wî\u0010çýø\u000e\r§\u0002Î",
+      "contains": [
+        "cat"
+      ]
+    },
+    "asparagus": {
+      "hash": "\u0004ÉwlET\tl\u0014`¯§yÂsB\nª\u000eá|ôJÑÍuGÞ]ø",
+      "contains": [
+        "let"
+      ]
+    },
+    "assays": {
+      "hash": "\u0002³à-\u0007]~\u0001}\u0011ü÷\u0002Ñþ\u0016g\u0016\u001d÷\u001c}o¬÷ÄPoD",
+      "contains": [
+        "pod"
+      ]
+    },
+    "assigned": {
+      "hash": ".»\u0019aÍ2\u0003\u0005ØÖ\u0014loG¬(\tJ-LÑ¦Õ 9h",
+      "contains": [
+        "log"
+      ]
+    },
+    "assuring": {
+      "hash": "T½¹ÑlaDr\u000bÍA¹c\u0019Ý\u0018¥;óëu\u001b¥$Â",
+      "contains": [
+        "lad"
+      ]
+    },
+    "avalanche": {
+      "hash": "»Ïø\u001dI¬Íöf[\u00039áÏ\u0015õl\u0003n»ê\\BOy$}",
+      "contains": [
+        "boy"
+      ]
+    },
+    "aviatrices": {
+      "hash": "ÑKõW¼âªcOgis\b`MsxW\u0003ëX÷ú>8´ne",
+      "contains": [
+        "cog"
+      ]
+    },
+    "babbled": {
+      "hash": "0\rqÝ2eà÷ÇT5ª,ÿZÇj`MewSA\b\u0007R",
+      "contains": [
+        "mew",
+        "mews"
+      ]
+    },
+    "bacilli": {
+      "hash": "léü×ô¼ö\u0014aGo\u0013¹}Ká¢8*iÅ.Qäzñ¹ÒP",
+      "contains": [
+        "ago"
+      ]
+    },
+    "backstopping": {
+      "hash": "HgLH¹WÞ÷²µfÈ\u0004Gà@è07\tÚ¼ãhqiDisÈÁ",
+      "contains": [
+        "Dis",
+        "dis"
+      ]
+    },
+    "banshees": {
+      "hash": "\u0013ûthEXGÀu\u0001ú¯{\u001bðfíìÎùÆgPhÉ' =nÍcÄ",
+      "contains": [
+        "hex",
+        "the"
+      ]
+    },
+    "barely": {
+      "hash": "Í(\bZäÈEÐnEWð¤Df7òM$#;¬Ä¹\u0002H;",
+      "contains": [
+        "new"
+      ]
+    },
+    "beatification": {
+      "hash": "éÅÔ¹þr·aKIt§÷\u0018`é²·ÃÝÓ´~\u0003z\"",
+      "contains": [
+        "Kit",
+        "kit"
+      ]
+    },
+    "beleaguer": {
+      "hash": "9!ÖJ¤ßtû\b=3lAy¦²\u0019æ¶\f:fOº ÅÑø&¾`",
+      "contains": [
+        "lay"
+      ]
+    },
+    "benefit": {
+      "hash": "étia\rz§¿GGªûCub\u0014´i\u0000÷¹lê\u0016\u001aY\u0007Cð",
+      "contains": [
+        "Tia",
+        "cub"
+      ]
+    },
+    "benefitting": {
+      "hash": "ºÁORE|(×\u000eÛ-=ÖÏÒ{´Y!Ô&\t:¼ëqãõô",
+      "contains": [
+        "ore"
+      ]
+    },
+    "besmirch": {
+      "hash": "\u0017Ð§×\u000bý2É\u001a°\".nay©Ï±)8Á®~\u0013Ú\u000e'Î",
+      "contains": [
+        "nay"
+      ]
+    },
+    "bewails": {
+      "hash": "Bù\u0011I.\u0015;¿CoÀü'[G·SóPophédÝ",
+      "contains": [
+        "pop"
+      ]
+    },
+    "biographers": {
+      "hash": "=É«@~g!¤Oì¯HXnoEIå\u0017h´æm\u0013õ\bt",
+      "contains": [
+        "Noe"
+      ]
+    },
+    "birdwatchers": {
+      "hash": "bt·$\u0011JkÙ\t\u001bMéM;Þh¿\u000e°SAlèØÖßÓ4¨\u0012\u0011",
+      "contains": [
+        "Sal"
+      ]
+    },
+    "bit": {
+      "hash": "Ð\u0001<.\n8~LnibÅô°ÉH\u001d`û¹ëBZåÍ¢øÎ²À\u0006O",
+      "contains": [
+        "nib"
+      ]
+    },
+    "blackballing": {
+      "hash": ",ï­Áß8e ý\u0013ªeRª \t­X§Çv\bU\u0006\noDEH",
+      "contains": [
+        "ode"
+      ]
+    },
+    "blackguard": {
+      "hash": "ãÄy]ý¿\u0013rI\u0006Ì\u001d[.¬H'mþ\n×{hJÁÀ",
+      "contains": [
+        "h'm"
+      ]
+    },
+    "blackjacking": {
+      "hash": "\u000b+\u0017/¾ÒúûÑ(o83'þÑJ\u0004ãÐäÆÅ\u0006¾ã«loUN",
+      "contains": [
+        "Lou"
+      ]
+    },
+    "blaster": {
+      "hash": ")aÅ þ²¨ÉbÞÏ7#\r\u0010¤*t ¸Êz8½\nYou\u0011WZ",
+      "contains": [
+        "you"
+      ]
+    },
+    "bleaches": {
+      "hash": "÷µåÎa¥+·?Ö.Ù=J\u0019t\\\u001cÖ·kiT\nt\u000ex\u0004Q",
+      "contains": [
+        "Kit",
+        "kit"
+      ]
+    },
+    "blessed": {
+      "hash": "©£ãâm³\u0000º¿\\®&\u0007&ÑkE\u000bµgiG1¬åºè\u0000w",
+      "contains": [
+        "gig"
+      ]
+    },
+    "blossoms": {
+      "hash": "\u0019Ë\f\u0014\u0001\u0016\u001dr\u000e²Ë\rû=ùËN@nagB",
+      "contains": [
+        "nag"
+      ]
+    },
+    "blustering": {
+      "hash": "cà¤c°ufaÂa\u0000PmØg\u0013ø;TÝuõÎ",
+      "contains": [
+        "Ufa"
+      ]
+    },
+    "blustery": {
+      "hash": ":än±µµ²\u0012T2mug´±ä)\u0010$Xxºñ\u0014É©ß",
+      "contains": [
+        "mug"
+      ]
+    },
+    "bobtail": {
+      "hash": "gH?«p{k{ìW\u001e:\u0018aNY¦}k`.\u001eÿ4\u0012\u001a;\u001e",
+      "contains": [
+        "any"
+      ]
+    },
+    "bombing": {
+      "hash": "\u0012|jïø\u0013\rlh\u0003áÆ^E\u00153\u0005~\u000fí<5dOTYÀs\u0013",
+      "contains": [
+        "Dot",
+        "dot"
+      ]
+    },
+    "boning": {
+      "hash": "\u0007e­g¢|¾ÉuDÌÏA~ÒRmAy\u0003J8~cN`Ø",
+      "contains": [
+        "May",
+        "may"
+      ]
+    },
+    "boobed": {
+      "hash": "ê'ìI\u0018é\u0004heW)³\u001eDFÙ·¨ÁL\u001b ¢3Sº¼",
+      "contains": [
+        "hew"
+      ]
+    },
+    "boringly": {
+      "hash": "ø9TYAm[\u0004°^ìâ[X}IßF%²e¼ß/)OØ/Ê",
+      "contains": [
+        "yam"
+      ]
+    },
+    "boycott": {
+      "hash": "®åf#[V81\u00119ø+¬DHºç\u0010F\u000ePArZðÌ¸÷",
+      "contains": [
+        "par"
+      ]
+    },
+    "brandied": {
+      "hash": "«e}CAp±XoÜÌ>{Å¹×_\u000eóã¼o×\f×÷³",
+      "contains": [
+        "cap"
+      ]
+    },
+    "bricking": {
+      "hash": "ÔÇ£ÞÝmíÆpoPfÉó\u0007nù÷é£%å)0ìJøµ\u000f6",
+      "contains": [
+        "pop"
+      ]
+    },
+    "briquettes": {
+      "hash": "dUEHT\nI±àDìÊ4ÖTH}K\fÿ\n»$ðÆ,Z­",
+      "contains": [
+        "due"
+      ]
+    },
+    "broadens": {
+      "hash": "kiN\\\nÄëCþ?/\u000402hy.ó§\u0012¢Sïöèxäñ",
+      "contains": [
+        "kin"
+      ]
+    },
+    "broader": {
+      "hash": "¨B'Nf3¥\u0001\u0016Ò?W!/ÇmAsVFN? ©°?",
+      "contains": [
+        "mas"
+      ]
+    },
+    "bronco": {
+      "hash": "ËÁ~Ôí\u001a\u00112Z×*\tØ\u0017`¿lEwó¶/\bNÉ",
+      "contains": [
+        "Lew"
+      ]
+    },
+    "budgies": {
+      "hash": "0tHUsÞ¾ÐÐÏ\u0012Îù×È¬\u001cU|øÌÿ\u0010°ýõ·",
+      "contains": [
+        "Hus",
+        "thus"
+      ]
+    },
+    "bulls": {
+      "hash": "\u0013pt\nTSFDyeM2ö\u001eÓÔ\u001avÆ1\u001cisg¨n?+",
+      "contains": [
+        "dye"
+      ]
+    },
+    "bumbled": {
+      "hash": "¿\u0014\u0013e\u001e¸Qa\u0005Ph¶ÔÏ·\u0005£¾w½\u0007¯\b\u0002sIPéÓ{",
+      "contains": [
+        "sip"
+      ]
+    },
+    "bump": {
+      "hash": "_½é»?ØÂ$\u0002\u0000WiZÄfJ?¡4½ÍO\u0005PâúÒ *\u0014¿",
+      "contains": [
+        "wiz"
+      ]
+    },
+    "bundled": {
+      "hash": "LAdµ\u00036\u0006\u0003d=äP{ø¥Xå\u0005\u0013°\u0012ª^ËåÂ+âÉ",
+      "contains": [
+        "lad"
+      ]
+    },
+    "bunker": {
+      "hash": "xä>6Z\r(IX|3áb<Í½­\u001e¨\u001cWbAN¾æò\f\u0003",
+      "contains": [
+        "ban"
+      ]
+    },
+    "burgher": {
+      "hash": "\u001bwr\u0011\fLiNsAf&Ä;x\u0016ÒW#ô%`]=\u0005BRóåõû",
+      "contains": [
+        "Lin",
+        "NSA",
+        "ins"
+      ]
+    },
+    "bushmen": {
+      "hash": "Õ\u001e¶Ç¦×Ê\u0000®w#k\n£ÿy_9ó\u0000ÑRbNUn;\u0015Ý",
+      "contains": [
+        "nun"
+      ]
+    },
+    "butterfat": {
+      "hash": "¿\u001f5væ?H'\u0011¬3¡ÏIYeRr3M£l»>Â$ñøc",
+      "contains": [
+        "err"
+      ]
+    },
+    "cages": {
+      "hash": "cFVx4'8æ\u0006>|÷\u0015§çjÉê´\u0014A¸\u0000car¹q9",
+      "contains": [
+        "car"
+      ]
+    },
+    "candles": {
+      "hash": "¯ÆÕ\f^[úNi\u00077#\u0011eTa\b@tòAK=\n ­T¿F",
+      "contains": [
+        "eta"
+      ]
+    },
+    "cankering": {
+      "hash": ",\\g»+ó\rï!þS\u0019?:WªT\u0012QõGë\u0003îLIMpEG",
+      "contains": [
+        "Peg",
+        "imp",
+        "limp",
+        "peg"
+      ]
+    },
+    "cape": {
+      "hash": "\u000eÒú%9ÞTiE¯îu\rö&áåEC¿ÐZ­.(ð\u0006ø",
+      "contains": [
+        "tie"
+      ]
+    },
+    "capitulated": {
+      "hash": "Sì\u0007óð*\fàÃÒ´sÝÈGEtp\u0001À'CZN",
+      "contains": [
+        "get"
+      ]
+    },
+    "careful": {
+      "hash": "\u0019\u001cARarYÄC[\u001a8\u000b¬\\Ã\u001c=ýÓÏ\u000fÌäFÙ#",
+      "contains": [
+        "Ara"
+      ]
+    },
+    "carfare": {
+      "hash": "^YÁH&¥¥µ#P½RiMÓæ\u0006¡\bmTà7Ðe56\bA",
+      "contains": [
+        "rim"
+      ]
+    },
+    "casuists": {
+      "hash": "ÎPp·Ú|\u0011àÞ÷\u00143RFÃÛge\foHm4Õ\u001c¶ý&",
+      "contains": [
+        "ohm"
+      ]
+    },
+    "catchment": {
+      "hash": "a´g\\Nã\u0016K\u000eôZpOLz]Ëºi«ú~ \fÇdÛ\u0007",
+      "contains": [
+        "pol"
+      ]
+    },
+    "celibates": {
+      "hash": "²ý¦o¦Ý&OVaá!¯¾Ä¥²#*æb©øp\u0004¨Ì",
+      "contains": [
+        "ova"
+      ]
+    },
+    "centrally": {
+      "hash": "n+Mei\u001e\u0011\u0013Ã_ÆÆ¾aCTË\u0013\u0015ÿv\u0007{xÓÕÊs\f",
+      "contains": [
+        "act"
+      ]
+    },
+    "chalkier": {
+      "hash": "ÖC¬Ïi?¤Öa^¦lÏÕ­ÃLONn}¹U°Êñ\u0019»",
+      "contains": [
+        "Lon"
+      ]
+    },
+    "chamois": {
+      "hash": "Ój6äÜó5ÜÚ@\u001eâì¬£BrAóÙ!Tó\u0010\u0004êg",
+      "contains": [
+        "bra"
+      ]
+    },
+    "changes": {
+      "hash": "Ð´º#\u0011³èIwÜK³ þrÍBo\\ñKHzLSR®:ØË7",
+      "contains": [
+        "kHz"
+      ]
+    },
+    "characterization": {
+      "hash": "s\u000ec)ÒR¹Ï×V'ìÄW\u0017hum\u0010¾c\r\u001cÛcwùE]\u0019\u001b",
+      "contains": [
+        "hum"
+      ]
+    },
+    "chemicals": {
+      "hash": "Od&Ý*ÅJ°\u001dÿTOmßÈq\tòÀføo-\\\f\u000eú",
+      "contains": [
+        "Tom",
+        "tom"
+      ]
+    },
+    "chimpanzees": {
+      "hash": "\u0018Sm\u0001=A¢Khz:)oúTæ-º\u0010Ý.Õº\u0003P¸+y[",
+      "contains": [
+        "kHz"
+      ]
+    },
+    "chuckled": {
+      "hash": "ðWÖ½½\u000e~×\u0010Ø~Ã¾·Â¶t³NgEE8å)3\u001ai«",
+      "contains": [
+        "gee"
+      ]
+    },
+    "churns": {
+      "hash": "èýsfÓÇ7µ.dCýþàÒ/ÞIé\u0002`DOcC\u0016Èsz.",
+      "contains": [
+        "doc"
+      ]
+    },
+    "clashes": {
+      "hash": "\u001eÔ»\u0013\\»\u001c&¡\u001a#ðïheNà¶QªV%Ewì.s",
+      "contains": [
+        "hen"
+      ]
+    },
+    "classicism": {
+      "hash": "õ\f\u0007õD_%ÏÃ¨ØÖê±Ñ\nFa÷·\u001cK£Errl^°Ö",
+      "contains": [
+        "err"
+      ]
+    },
+    "classifieds": {
+      "hash": "ÐÐ\u001b\u0017\u0000á\u001a\u0006A@\u0006\u0003\u0005Ý´¼Ë´MÝ\nFer",
+      "contains": [
+        "fer"
+      ]
+    },
+    "cleanses": {
+      "hash": "pµ\u001b\u0004mB½ÞüV3ÞLEWºªî\u0019Àãâ\u000fí\u000e¨ÞZnÄ",
+      "contains": [
+        "Lew"
+      ]
+    },
+    "clearings": {
+      "hash": "\u000ekQÞí3#KAYÞzDi=`ÜÀ7@\u0015³=i\u0002§Y4×",
+      "contains": [
+        "Kay"
+      ]
+    },
+    "climactic": {
+      "hash": "y\u0010\u0002RÜëöT\"$AÚ_ÈàòQ«±Õ\u001eBSDú>ð",
+      "contains": [
+        "BSD"
+      ]
+    },
+    "cloisters": {
+      "hash": "@þk\u0007pCoWL¿1\u001dNØC#Ø×Ê1²Æ}æ©¡7",
+      "contains": [
+        "cow",
+        "cowl",
+        "owl"
+      ]
+    },
+    "clue": {
+      "hash": "LBJh»Ãt¼§a4\u001ct+7û5¯|Ìû.\u001a\r4\u000ea|\u0016",
+      "contains": [
+        "LBJ"
+      ]
+    },
+    "codfishes": {
+      "hash": "_ô.SInÿ¥ÂäÄIEÑi\r#\u0011?ñmê8hÞGä",
+      "contains": [
+        "sin"
+      ]
+    },
+    "codgers": {
+      "hash": "v®¤n}©\u0013lÊU½}õî§RotBçyÊpsÎ¢þà",
+      "contains": [
+        "rot"
+      ]
+    },
+    "colic": {
+      "hash": "-·\u0017Ò¬AOl±N\u0019ûÛÄÇDë3XÕlÖ\n¢¤«",
+      "contains": [
+        "AOL"
+      ]
+    },
+    "collar": {
+      "hash": "FI&åAk®F}8ÓÁ®¸\u001d¼kAre2\u0004]8kßU^0",
+      "contains": [
+        "are"
+      ]
+    },
+    "collected": {
+      "hash": "÷\u000b6b%\u0012\nc$Ò÷s\tûÉÎUßã4mAP2°ô",
+      "contains": [
+        "map"
+      ]
+    },
+    "colloquially": {
+      "hash": "\u0001®Ü¢tìü¥ið·¦àâ\u0003(\rTAx\u0004a`Ü¶wqa",
+      "contains": [
+        "tax"
+      ]
+    },
+    "colonialist": {
+      "hash": "¾;O®¤F£t§Û±ÃVe¡D}ì§öy-©ROd",
+      "contains": [
+        "Rod",
+        "rod"
+      ]
+    },
+    "colonized": {
+      "hash": ")8ryíi¦\u001eOf\u0006å\u0003Ç§è®Vð¼auKÞ",
+      "contains": [
+        "auk"
+      ]
+    },
+    "commonwealth": {
+      "hash": "ztWAs_ÆÎ>®|¨»×S>\u0001Ù\u0001mZoQ.¦«L",
+      "contains": [
+        "TWA"
+      ]
+    },
+    "complexion": {
+      "hash": "sJAGç0AÏ¥\u001d»(wÔÌªsW\u001cg\rá. uq\u0018è",
+      "contains": [
+        "jag"
+      ]
+    },
+    "compresses": {
+      "hash": "+ NIgKñ2\u001fD&®¨ö +â\u000b×ß\u0015WAs",
+      "contains": [
+        "was"
+      ]
+    },
+    "concrete": {
+      "hash": "ÿ)LO\\ª%\u0011MRAg\u0002}Ôruô¿~AOÎ¹­\u0012ÐX",
+      "contains": [
+        "rag"
+      ]
+    },
+    "confiscations": {
+      "hash": "jIg\fÖÅÁ`Ü÷é4:wö»:\u0012Ç5\b,E\u0010\u0013",
+      "contains": [
+        "jig"
+      ]
+    },
+    "consonants": {
+      "hash": "­ë\\Ã\tÜö4nÁpuN·ôö\u0002¶X½åd\rãÆ]\u0007~!¿",
+      "contains": [
+        "pun"
+      ]
+    },
+    "contiguity": {
+      "hash": "ó?I°jîAÔ¬\u0018\u000eª\u0003bç0¡tÈ\u0003S\u0015Á\u000bývEX",
+      "contains": [
+        "vex"
+      ]
+    },
+    "convent": {
+      "hash": "X[Iþ%ZÞ*|;+x\u0006S_Ã\u0011§÷ITS\u000fºÜdb*\u000b",
+      "contains": [
+        "its"
+      ]
+    },
+    "cool": {
+      "hash": "Ã@EÁ¡Û\u001b?Êi!FiRÚ®\u0007êö\u0010KLí;U¶¯\u001b",
+      "contains": [
+        "fir"
+      ]
+    },
+    "corkscrewing": {
+      "hash": "1¯&JMhìgæÛú\n?oÓLIeÌÜ°\u0001C\u0010b\f",
+      "contains": [
+        "Lie",
+        "lie"
+      ]
+    },
+    "cortical": {
+      "hash": "³xÂrî:ÿV£ëÉcÒ\u001fK\u0005ýS=\u000eyûâjfaYGnC",
+      "contains": [
+        "Fay"
+      ]
+    },
+    "cosmologies": {
+      "hash": "0¢ o\u0003zA?§\u0012~ ÙÛ6C³\\¯rdsº¿û \u0001\\",
+      "contains": [
+        "RDS"
+      ]
+    },
+    "costed": {
+      "hash": "ùÅ³U¬úv~?Võ2j\u0012æ\u0012¥åÐüÊEve\u0012á×\u001bó",
+      "contains": [
+        "Eve",
+        "eve"
+      ]
+    },
+    "cotter": {
+      "hash": "(L,7q-¯\u0017¾<\u001eã\n!©yupåÿ¿Î\"\b«Ä",
+      "contains": [
+        "yup"
+      ]
+    },
+    "cowards": {
+      "hash": "Á¢ì`AÅHuE%µxØ3Â,\u00169¢\nî\u001dæãÉ¾÷sTÁ\u001c",
+      "contains": [
+        "hue"
+      ]
+    },
+    "cozies": {
+      "hash": "Õ\f+ºê¢Ë\rÓmâ¹ $FUMeæÙ&°xïxréÛÜS",
+      "contains": [
+        "fume"
+      ]
+    },
+    "crawls": {
+      "hash": "\"ÆÄ\\åâö\rt£n'l9£®¶È7ÚmAO[ã",
+      "contains": [
+        "Mao"
+      ]
+    },
+    "crazed": {
+      "hash": "\\Doe\u00014\u001dPZõn¤.ûpÓ\u001aR5ï÷y¶«»q",
+      "contains": [
+        "Doe",
+        "doe"
+      ]
+    },
+    "create": {
+      "hash": "úG°Ã1'?YEP1Ã NÎXÊG#:\u0005bº7",
+      "contains": [
+        "yep"
+      ]
+    },
+    "creature": {
+      "hash": "ß´+7ßOwEd¬6¼kë/Bòç9ø­\u001cáÇãî`Ñ",
+      "contains": [
+        "owe",
+        "owed",
+        "wed"
+      ]
+    },
+    "creole": {
+      "hash": "¶8ü\u0011d\u000eOpTòíqu\u0002ôOÓpþ4%ö\u001de«?fj",
+      "contains": [
+        "opt"
+      ]
+    },
+    "creosotes": {
+      "hash": "Zq\u0005n\u0001í[\u001bSOs:îî;É\u0018îu{G^ñU>õ_´",
+      "contains": [
+        "sos"
+      ]
+    },
+    "cried": {
+      "hash": "ð\u000e³2\u0018rAEØ\nª\tUbÂ\u0018mÚÜ¢\tøí¿0éPóÃî",
+      "contains": [
+        "Rae"
+      ]
+    },
+    "croquettes": {
+      "hash": "v©ñÐàski»ç\u000fIú¥EØ0÷\u001dÙ~?²ôKãUøÞ",
+      "contains": [
+        "ski"
+      ]
+    },
+    "cruise": {
+      "hash": "ýÛ³\f\u0018¶( fCoDÈKW\u0013\u0007òt¶\"UémPØb{",
+      "contains": [
+        "cod"
+      ]
+    },
+    "cruises": {
+      "hash": "õLa¾î[îögOT\u0016¿9R9ÁsmÝ\u00175B\u001eÁ\u001dl\u001fk",
+      "contains": [
+        "got"
+      ]
+    },
+    "crumble": {
+      "hash": "ke=äÝ¾'¯ª|îdoT±m\u000fåø\u0012\u001f*\u0011;\u001d¦óOË",
+      "contains": [
+        "Dot",
+        "dot"
+      ]
+    },
+    "cuddliest": {
+      "hash": "\u000bÌ~&dade\u0007tÑ\u0015Ú¡·I\r\u0006¯ì:\u0005ìåìQÆ'¿\u0002",
+      "contains": [
+        "dad"
+      ]
+    },
+    "cupful": {
+      "hash": "éÃs0qoMöA\u0001åjtI^õ\u001f6ª\u000e ÍüzÞ±n",
+      "contains": [
+        "Qom"
+      ]
+    },
+    "curliness": {
+      "hash": "ºõ\u0010X\u0015\u0012,s¢´«LÎifFYUäÿ-\u0013ú­\u0013l!\u000b\fé",
+      "contains": [
+        "iffy"
+      ]
+    },
+    "curtsey": {
+      "hash": "LõrLA½\b>þjIGµ\u0010LlÄF­ÿaLH\u001aÚEò9Ý¿",
+      "contains": [
+        "jig"
+      ]
+    },
+    "cuticles": {
+      "hash": "û/pÆ\u0001MOmô\u0001\b*\u0000Ç­2A=Væx§Kì_®u",
+      "contains": [
+        "mom"
+      ]
+    },
+    "cyberbully": {
+      "hash": "÷SoLÅÑª\u0012:G>Ù*Æe.zÌ¬Ê±\u001cø\u001e2eÃ.\u0012kp",
+      "contains": [
+        "sol"
+      ]
+    },
+    "danced": {
+      "hash": "äó+;îÆÅh4L3uÔ%ôÚÑ»<RIg^\f[Ìªs4½_",
+      "contains": [
+        "rig"
+      ]
+    },
+    "dashingly": {
+      "hash": "ÜÌTØ)PegR\r2÷-°'Ñ\u0015pþî\u001c?G\t³\u0003ô",
+      "contains": [
+        "Peg",
+        "peg"
+      ]
+    },
+    "deadbolts": {
+      "hash": "\fW({Y\n\u001fòÓ¬~F´b§ü~GumBðëXYBÖøo",
+      "contains": [
+        "gum"
+      ]
+    },
+    "deafness": {
+      "hash": "ãK§Ê\u0010]j{,ÞlayÑ\u0004Øä2¤Ñ«¨ÜÝ\u001dáLVc0",
+      "contains": [
+        "lay"
+      ]
+    },
+    "deathtrap": {
+      "hash": "`\u0003\u0017vi.5fT\u001c¥gZ\t©TitøQÙ{Ñ@-\u0006wj\u0017Â{",
+      "contains": [
+        "tit"
+      ]
+    },
+    "debonairly": {
+      "hash": "ûÒ6/?5üEïü=ÑÝ¬¡c6sqÜ¦ú\u000fk\u0014\u0011yEA",
+      "contains": [
+        "yea"
+      ]
+    },
+    "deceives": {
+      "hash": "\u001d\u001f¯¯`´Í\u001a£MB_ò¤uuWOdD\u0016mVQÕ\u00145ÙI",
+      "contains": [
+        "odd"
+      ]
+    },
+    "decipher": {
+      "hash": "OÁ&\b\\\u0002ïPalp/¦À\u001e-+¨Êë¾\u0007Û=üÕþº\bzU",
+      "contains": [
+        "pal"
+      ]
+    },
+    "defections": {
+      "hash": "ÞvÁCZÚ\u0017áPIGe»}×z\nd3H=b*eÇ;\n",
+      "contains": [
+        "pig"
+      ]
+    },
+    "dehumidifying": {
+      "hash": "ø8]ío)µÀ\u0017uÅsrº¹cA<]øÀBoO^º£\u001c\u000e",
+      "contains": [
+        "boo"
+      ]
+    },
+    "democratic": {
+      "hash": "ù\u0007\u000e°\u0001Öpè7íSsnag\\t^ø\u0002Ì½ÔZVvö½",
+      "contains": [
+        "nag",
+        "snag"
+      ]
+    },
+    "demonstrating": {
+      "hash": "MàþBam9ÍÏã{b¦\b+ INK=Qß°6\bÂØå",
+      "contains": [
+        "ink"
+      ]
+    },
+    "depiction": {
+      "hash": "[~Ê m6ô\u0019í\u0018Ê£N\u0015z\u0018ïöløJon/#²ª\u0017",
+      "contains": [
+        "Jon"
+      ]
+    },
+    "devouring": {
+      "hash": "ÈÌî\u0003ûðelFmûßÉ`ù$]fî'µs\u0018±ËÇë2",
+      "contains": [
+        "elf"
+      ]
+    },
+    "devouter": {
+      "hash": "w¼nµÕ¾tHY\u001d\u001d³\u0003cVÚ\u0019ÐxoÂð2f*J\u0006$",
+      "contains": [
+        "thy"
+      ]
+    },
+    "dextrous": {
+      "hash": "9\u0010ÁbÖx4\u001a¶kà\u0013W7¦WGidEcI)vMÇ)Jç2",
+      "contains": [
+        "Dec",
+        "Gide"
+      ]
+    },
+    "dickers": {
+      "hash": "õIf\u001cËMz-þÓeÊNskipé\"ªüÔ\u001dã^äõ\\\u0019A",
+      "contains": [
+        "Kip",
+        "ski",
+        "skip"
+      ]
+    },
+    "dinging": {
+      "hash": "|^ò´¿­xqç§8~éÛLulA¼AN\u0003­Gø»\u001d\u0001ª¡",
+      "contains": [
+        "Lula"
+      ]
+    },
+    "disagree": {
+      "hash": "gemï\u0000\u000f¹¯\u001bÒE¢\r:wVü f\fÂøô$ù\u001d",
+      "contains": [
+        "gem"
+      ]
+    },
+    "disarraying": {
+      "hash": "ÐPAtùÕ\u000ec\u00126Úõi¡[a¬\u00152k\u0003­\u001dGò8ÆO",
+      "contains": [
+        "Pat",
+        "pat"
+      ]
+    },
+    "disasters": {
+      "hash": "\u001d¨1 ÆCå(¯w5\u000f]Sî~a$9µÀØail»",
+      "contains": [
+        "ail"
+      ]
+    },
+    "disbelieves": {
+      "hash": "ÜÞÛpYmµz$ÔÅÇ©ªM~Ë£þÁÅ\u0011bü\b\b]",
+      "contains": [
+        "Pym"
+      ]
+    },
+    "discords": {
+      "hash": "²-°cNAGÕð\u0001\fûæ*Øú±#6h³/\u0001ªyG`",
+      "contains": [
+        "nag"
+      ]
+    },
+    "discounting": {
+      "hash": "Æ+dê\u0011w\u0002X*`0¤È£©2û£d½eïA¡ÒUzi",
+      "contains": [
+        "Uzi"
+      ]
+    },
+    "discrepancies": {
+      "hash": "!ôD?,4g&àÀ9Ù\"±·±É\u0007*7\u001c^»%\u000eØ¶pEpÙ",
+      "contains": [
+        "pep"
+      ]
+    },
+    "disfavors": {
+      "hash": "ò\u0015'ÕVlüÑÌ\u001b\\\u00037TAt\\{\u0007ØL²ìz°R1ó",
+      "contains": [
+        "tat"
+      ]
+    },
+    "disgracefully": {
+      "hash": "¿mò\u0013>ªÎ\bèBob\u0015\u0007«Ë:\n\u000bçÂ Ûy7Ã¡",
+      "contains": [
+        "Bob",
+        "bob"
+      ]
+    },
+    "disputes": {
+      "hash": "\u0011Ò²tÇnrµ ÁÿU¶%P\u0013Ú`4¯µleaÓ\u000e\u0013d½É",
+      "contains": [
+        "Lea",
+        "lea"
+      ]
+    },
+    "distinctions": {
+      "hash": "ç íã\u0016Â9D[r¿ñG%îhAg\u0003¹Üôö?/xÂ",
+      "contains": [
+        "hag"
+      ]
+    },
+    "divvying": {
+      "hash": "_æöoôlOÉ®2BMW^xªK\u0019wòUÈRp¨¾\u0013t",
+      "contains": [
+        "BMW"
+      ]
+    },
+    "dogtrot": {
+      "hash": "mHzM¦¦<ZM\u0005¤øÏS\u0016rT÷kÃ³|[Ìxü\u001f\u000bË",
+      "contains": [
+        "MHz"
+      ]
+    },
+    "dollops": {
+      "hash": "¶àó\"Zºë'?3Í_oùÍÑAÊ¿öLAx\u000e¦©|",
+      "contains": [
+        "lax"
+      ]
+    },
+    "doughty": {
+      "hash": "(0%dî°Á`\u0019É\u001bÏ~64¿\fÿToWpP^\u0004é¾û",
+      "contains": [
+        "tow"
+      ]
+    },
+    "driveling": {
+      "hash": "-ñêÂÙ\u0005ñ\u000fÔmòW~\rñÆ¯\u0002\u001d\fºRCAf*Â\u0018ëX>",
+      "contains": [
+        "RCA"
+      ]
+    },
+    "driven": {
+      "hash": "4õ)\nÜ\u0013»ûÃì+Ç<iBïOzÙB®aVaêºÛ8",
+      "contains": [
+        "Ava"
+      ]
+    },
+    "droughts": {
+      "hash": "8ÿÆî¦Æ7¢o=2ªSalîèVBóçª,þ©Ñ& ",
+      "contains": [
+        "Sal"
+      ]
+    },
+    "drove": {
+      "hash": "vr\u000bJ\u0011»Q\u001a\tºcaT>ß¤\u0004W¥b\u001cí^_&",
+      "contains": [
+        "cat"
+      ]
+    },
+    "earthlier": {
+      "hash": "\u001b:¼Ú¿ò`\u001c2Ù,_ZBUmmM2õÄG)\u0000ò\b¶",
+      "contains": [
+        "bum"
+      ]
+    },
+    "earths": {
+      "hash": " tUÞ¯WK1:AptO¢Ù9JDÝ\"@z{QY",
+      "contains": [
+        "apt"
+      ]
+    },
+    "eastern": {
+      "hash": "B!¨òk²UQÆIÜÓG¼\u001eÒ°GT¤ñAWS¨",
+      "contains": [
+        "AWS"
+      ]
+    },
+    "easternmost": {
+      "hash": "~\u000eîÇwÿ®?W\r©#Ò7jL\u0010Ò Qþ\u0006mASx\"",
+      "contains": [
+        "mas"
+      ]
+    },
+    "edibles": {
+      "hash": "W·ùÍkò¸×¬EvEÓÛäeÂ^\u0005\u0000\rô98ýBøh",
+      "contains": [
+        "Eve",
+        "eve"
+      ]
+    },
+    "elapse": {
+      "hash": "{¶·CLq\u0004¥µÓ<Icid4¦;\u001cçlJÀµÐ´N",
+      "contains": [
+        "Cid"
+      ]
+    },
+    "elections": {
+      "hash": "\u0014¶%lÄ\u001cùµz¡\n6·ÎëÇGOgß³\n5Me&A",
+      "contains": [
+        "Gog"
+      ]
+    },
+    "elevens": {
+      "hash": "ËTñ¤\u001a<ÐâSoPâ\u000eWîµïðñ\u001fcâ¬w",
+      "contains": [
+        "sop"
+      ]
+    },
+    "eliminated": {
+      "hash": "­sì\u0014\báßõÏ\u0012ÀÛ8 vS@,ñÉ!AXeéÞp",
+      "contains": [
+        "axe"
+      ]
+    },
+    "elixir": {
+      "hash": "`Æ«¿ÐñFùÍQsçõnixk|°\nôàIÿ§¶%±/",
+      "contains": [
+        "nix"
+      ]
+    },
+    "elopements": {
+      "hash": "ûGdÃ¢á+«pÛ\u001230PHUnt1¼8m\u0019\t´ÝKHIA",
+      "contains": [
+        "Hun",
+        "Hunt",
+        "hunt"
+      ]
+    },
+    "endeared": {
+      "hash": "1Ù¬2v²À:ð\u001e¶8\u0007íÍ¥uá\tZ:!×outÂí",
+      "contains": [
+        "out"
+      ]
+    },
+    "ended": {
+      "hash": "è{§ ·yØ·øm\u0019`E\u0004Io#´Ñã\u001eÔr\u001dÈcAr·#",
+      "contains": [
+        "car"
+      ]
+    },
+    "enfeeble": {
+      "hash": "½¿\u0010¶<·)v\t¼FuJ:ïHQí+ú\u0018hUGáõ£H",
+      "contains": [
+        "hug"
+      ]
+    },
+    "engorge": {
+      "hash": "<HqÑ\u001b¬$\u0012î\u0003ÂkVNUBíò¹\u0013qj\u001b\u000bå¢Ó\u001b\r{",
+      "contains": [
+        "nub"
+      ]
+    },
+    "enough": {
+      "hash": "odeùÝ\u0006>vÊ½¨\b,¯§í*rÊ\u0017S~\u0003sv",
+      "contains": [
+        "ode"
+      ]
+    },
+    "enroll": {
+      "hash": "S¼»RUG¿gOê\u0014¤ò´n÷¯Ô´¡ìZñ;",
+      "contains": [
+        "rug"
+      ]
+    },
+    "epicures": {
+      "hash": "ûÿøS$¿~Éóê\u001fÓ\u001esOw½°\\G}³­r{4Ç",
+      "contains": [
+        "sow"
+      ]
+    },
+    "ermine": {
+      "hash": "\u0000öj©kiElp½uúÀJæ\u000f»\u0006Nq\fÚQ¹)0\u0010",
+      "contains": [
+        "Kiel"
+      ]
+    },
+    "escorts": {
+      "hash": "\"åíBës\u0011\râN¯\u0017egKµA®LL­\u001bnOHBø",
+      "contains": [
+        "Noh"
+      ]
+    },
+    "eulogies": {
+      "hash": "¸ëê¨ÜR<EWLDø\baW±- 5?=-DCut",
+      "contains": [
+        "cut"
+      ]
+    },
+    "exculpate": {
+      "hash": "¿ÔúaYeà]\u00015moÒí]¡Êëÿ-ö­±JíÐMÛè'",
+      "contains": [
+        "aye"
+      ]
+    },
+    "exerts": {
+      "hash": "¹h½\u001dGÞË¬sáè%\u001dé\\¸±\u001bCOd2g¢iÉÔû;Ò",
+      "contains": [
+        "cod"
+      ]
+    },
+    "exhausts": {
+      "hash": "(\u0014m\u0004²ÔrÉælilaHÎ>\b\u0003­¶õÆnWèI;",
+      "contains": [
+        "Ila",
+        "Lila"
+      ]
+    },
+    "exhilarating": {
+      "hash": "Q«\u0000\u001fþÉÿ¼ôÆÊíYBÓÁÏy\u0015p¢øK%\u0007BED",
+      "contains": [
+        "bed"
+      ]
+    },
+    "expiated": {
+      "hash": "I½O\u001eÿefL­é¶M\f8\u001e\u001fI®rû\nD:\u000f¶î{vlES",
+      "contains": [
+        "Les"
+      ]
+    },
+    "expressiveness": {
+      "hash": "\u001e½\u0014Àf.î\u0003\r÷bZ\u0005\u0011ÅõÈ6ííOAntåu(",
+      "contains": [
+        "ant"
+      ]
+    },
+    "externally": {
+      "hash": "rè©9Qa­\u000fHéUjá\u0007à\u0013Ï:C\ruSEj\u0004ªö\r",
+      "contains": [
+        "use"
+      ]
+    },
+    "extol": {
+      "hash": "Õ1<\u000fßò ]|þ\u0017noDf¥]\u000b¥lÍ\tG\u000bdªÎÏa~§",
+      "contains": [
+        "nod"
+      ]
+    },
+    "extremer": {
+      "hash": "wEN%ÒJ2\u0006Oze\u001a\u001f³\f\u000bX\u0011ô\u0001\nü!\u001dÌä",
+      "contains": [
+        "wen"
+      ]
+    },
+    "eyebrows": {
+      "hash": "æQÂß+é\u0014ö`Û«ô\u0005boPUI°\u000e:D­6B\\¤\n¦Ë?",
+      "contains": [
+        "bop"
+      ]
+    },
+    "faiths": {
+      "hash": "\u001eÜ\u001bqÌ;ÇÍ;v\b\tw{wONF\u0012\u001cWò:\u0015JðÝÊ",
+      "contains": [
+        "won"
+      ]
+    },
+    "fascists": {
+      "hash": "aRk åØ2~z±ëbß¸o\u0005Æâh;/ÿSº/%Èqv",
+      "contains": [
+        "ark"
+      ]
+    },
+    "fatness": {
+      "hash": "é\"ú÷ÙîÜ\u0015Õ_\u0004)ÎZ\u0013]ÖNJ\tADAO\u0001vÜÙÔ",
+      "contains": [
+        "Ada"
+      ]
+    },
+    "feckless": {
+      "hash": "V\r³ã9ø\u001aíTit(¥Ø(^\tAC¦7J\u0010\u0013[¦\u0013",
+      "contains": [
+        "tit"
+      ]
+    },
+    "feeble": {
+      "hash": "6\"tqqs´ê\u001b£Á#Rd(RAwHf Pç:§ÇÎ",
+      "contains": [
+        "raw"
+      ]
+    },
+    "femur": {
+      "hash": "5A!äÀÂ¾Kit¬±\u0000¹_dELygþ`&'{\u0006",
+      "contains": [
+        "Kit",
+        "kit"
+      ]
+    },
+    "fetus": {
+      "hash": "õçèI<\u0011\u00009R\\ÇajEDõ_IöUh§óMÕ\u001e§Ñ´",
+      "contains": [
+        "Jed"
+      ]
+    },
+    "filtration": {
+      "hash": "/ü y_\u000bßl·\\ú_ßÞ,müsÞe\u001dåÛSGAy-¥",
+      "contains": [
+        "Gay",
+        "gay"
+      ]
+    },
+    "finger": {
+      "hash": "@\u000b\u0018\u001c~rÛ\u0010PQ\u0016þM5heyvÊC\u0000'*",
+      "contains": [
+        "hey"
+      ]
+    },
+    "firefly": {
+      "hash": "¯¬2~siNhÀ/\\bó¼\u000bÏ\u000f#Dÿ\u0012\u001ex\u0014 ù³ÕÐ",
+      "contains": [
+        "sin"
+      ]
+    },
+    "fissure": {
+      "hash": "mÿ\u001dõd*zÑÅ/Þ}BeaKÄJ1·hw?-jÙ¨",
+      "contains": [
+        "beak"
+      ]
+    },
+    "flaccid": {
+      "hash": "SPY»ºË#\u0015\u001b¡\u000f/ÎÖ©Ë ±\u0010iCd3\u001bÍÁò",
+      "contains": [
+        "spy"
+      ]
+    },
+    "flavor": {
+      "hash": "µÒôQ[£O/ó¨NiXv+µÎÊ?ßá´0>êÓP}ª",
+      "contains": [
+        "nix"
+      ]
+    },
+    "flintier": {
+      "hash": "øÒÿ&P­RÅè!äÙ@ÝrwáALEøW{½\u0001Â ÔüóçÑ",
+      "contains": [
+        "ale"
+      ]
+    },
+    "flirtatiously": {
+      "hash": "}×Ãù±¯n·tIT\u001a¬âvügÍ_RCÜúNiÇq&",
+      "contains": [
+        "tit"
+      ]
+    },
+    "floe": {
+      "hash": "2jì³Í¡³\ts\u0000ên´\u000fEQoNe]3SÛ^Y] >",
+      "contains": [
+        "one"
+      ]
+    },
+    "flooring": {
+      "hash": "Qu\\4jV**æC\u001fèN*\u0010Z¦'XK\"¤\u0001º±ÄPaY",
+      "contains": [
+        "pay"
+      ]
+    },
+    "floppiness": {
+      "hash": "4\u0003*ä%£AhAhöu½äIÃÒ)OÂ\u0010ñ{L\u0001eeXC\u0001",
+      "contains": [
+        "aha",
+        "hah"
+      ]
+    },
+    "folded": {
+      "hash": "»é\u0000Ñ\u000eb¹\u0001WfAnlCLËVìÂÁ¬dM\u0015HQj",
+      "contains": [
+        "fan"
+      ]
+    },
+    "following": {
+      "hash": "\u0002ô4òÿ\u0012£Ý®mhz^×r^gÎh¢i\bqô8ô0ãB",
+      "contains": [
+        "MHz"
+      ]
+    },
+    "fondle": {
+      "hash": "ßmJ\\c\f©«9pUGëS(òJþY\u0005Szcø\rë²J",
+      "contains": [
+        "pug"
+      ]
+    },
+    "forelocks": {
+      "hash": "uÁXG\u0005ö\nÙtø¥gqÃMAIÀûÅÛöà¤\bÃ½ü",
+      "contains": [
+        "Mai"
+      ]
+    },
+    "fort": {
+      "hash": "\u0015\u000eã\u0019ëF«M¼H×4ey»ÿjaYÜ\"ÌCsµK?P",
+      "contains": [
+        "Jay",
+        "jay"
+      ]
+    },
+    "forte": {
+      "hash": "ÓÂ\u0018?ØúHâü5í,\u0005ÂX'°?sOwË¾î|Ð\u0018",
+      "contains": [
+        "sow"
+      ]
+    },
+    "fortnights": {
+      "hash": "ïcx»¯x:\u0004¶Ú>Ë)gOGîW*iu\u0011UB%ýë´ôç",
+      "contains": [
+        "Gog"
+      ]
+    },
+    "fowled": {
+      "hash": "%Ë$\u001aú{\u0005øòjÏ¹g%butY:¹0Á#\u000b\u001b¬",
+      "contains": [
+        "but"
+      ]
+    },
+    "frightfully": {
+      "hash": "\u001dÃP×gO_w\f¤h\"/\u0016rhuhÉqc¯b6]YO",
+      "contains": [
+        "huh"
+      ]
+    },
+    "fringes": {
+      "hash": "Y|5ÄcxW5U¿Çé\b\u000fFOX\u0013µJìé¹",
+      "contains": [
+        "Fox",
+        "fox"
+      ]
+    },
+    "frivolously": {
+      "hash": "\u0014\u000fëCOOZóhûii±:¢ÑòI\u0011Y¢,\u0004ç¤\\%\u001b",
+      "contains": [
+        "coo"
+      ]
+    },
+    "frizziest": {
+      "hash": "(eOÑXq?JDI¨Xå¹äQbSDð?wLsÏ÷]Í¢",
+      "contains": [
+        "BSD"
+      ]
+    },
+    "fruitiest": {
+      "hash": "2µ¶ÿª\u001c»PáöwÙ§7»\f /ßvÌÅ\u0017\u0012VÄTheA÷",
+      "contains": [
+        "Thea",
+        "the"
+      ]
+    },
+    "fumbler": {
+      "hash": "ÊÚ´¹qäV#Z=×pIn&8Fw9²géYùWò\u0016",
+      "contains": [
+        "pin"
+      ]
+    },
+    "funds": {
+      "hash": "\u001d®31­TOO¶\u001f4uÜ9uåãÁ\u0019új¥íNmX\fw²%",
+      "contains": [
+        "too"
+      ]
+    },
+    "gains": {
+      "hash": "\u0011îèGØ;7~ë~NFAt;áôÐ\u00017l\u0010DÅ¸",
+      "contains": [
+        "fat"
+      ]
+    },
+    "gallivants": {
+      "hash": "\u0012\u001ct\\ãû¹î±ø\u0013^0¡Zù\u0007\\\u0001)ûJkin",
+      "contains": [
+        "kin"
+      ]
+    },
+    "gallstone": {
+      "hash": "keY´\të¶ç·ÒcJoYÁò`£¨xÞ\u0016òädW@?",
+      "contains": [
+        "Joy",
+        "Key",
+        "joy",
+        "key"
+      ]
+    },
+    "galvanometers": {
+      "hash": "]k}Äå\bòULµ\u001eê)×IlLú\u001c(C®ÇóWm\u0019P",
+      "contains": [
+        "ill"
+      ]
+    },
+    "gashing": {
+      "hash": "¡\u0015JÇOUr`÷úÎÅ\\D%\u0006b#¹²© Z",
+      "contains": [
+        "our"
+      ]
+    },
+    "genteel": {
+      "hash": "T½max\u0012A£Àµ tz\u0002®\u0018ÎÆ§èäÄ´Û[YBî",
+      "contains": [
+        "Max"
+      ]
+    },
+    "genuflections": {
+      "hash": "Îú\u000b t\u0005n7µüHNsA\u0000Ú2\f¢M±%aNn¾ó!",
+      "contains": [
+        "Ann",
+        "NSA"
+      ]
+    },
+    "gerontology": {
+      "hash": "¤WIGüS\u0018\u0000Ê}MaÅ\u001e7\u0014¾hù3*s0tÞ×¼ôõ·",
+      "contains": [
+        "wig"
+      ]
+    },
+    "ghastly": {
+      "hash": "areÇÕÌádø\u001a\u001a:\u001fØÜüÙ\u0002ô¸nÝyD¸È¨¯",
+      "contains": [
+        "are"
+      ]
+    },
+    "gilt": {
+      "hash": "ZÎFrO!ÔiÑ»ù\tSé÷o-0rru§.¦Cþ\u0013\u0000tçz",
+      "contains": [
+        "fro"
+      ]
+    },
+    "glands": {
+      "hash": "×²$£ömÕM=ÚÑ:dÊ\u0019u}oNO\u001fs_·«þ×ó",
+      "contains": [
+        "Ono"
+      ]
+    },
+    "glimpsed": {
+      "hash": "ion$þ\u0010 ¶y\"uòùÈ\u001eº¹pû2DØ.ÆM\u0001Êy",
+      "contains": [
+        "ion"
+      ]
+    },
+    "graduation": {
+      "hash": "ATs£WÙÖ\".@zæ à\"&\"Ý,Q¦\u0010\u000f\u0000",
+      "contains": [
+        "Ats"
+      ]
+    },
+    "gridlock": {
+      "hash": "taXÙ}Y\"}6-\u0001\u0003{«A|åp\u000b¦ý\u0016öÙWF­",
+      "contains": [
+        "tax"
+      ]
+    },
+    "grossing": {
+      "hash": "¨åáêI ^\"\u0018ú¼®+iÒûPÐweI #è»ügE",
+      "contains": [
+        "Wei"
+      ]
+    },
+    "groupings": {
+      "hash": "¶%\u0000\u0019ÍèÖy´\u0013u\u001aîNq\u00041<?³Æx×geEÔd÷",
+      "contains": [
+        "gee"
+      ]
+    },
+    "grow": {
+      "hash": "­ÊQFAnä\u0019¬y¥(5\u001c¯ìí©\u0017ÊS+ê\"ç\f8ï",
+      "contains": [
+        "fan"
+      ]
+    },
+    "guano": {
+      "hash": "õê(þ$<F\u0012H°ann·VíZûO'ID\u0002öIÀ\u0011Ws",
+      "contains": [
+        "Ann"
+      ]
+    },
+    "gully": {
+      "hash": "¢\u0012áuØ@Ì}%-PåÜ@!}1ÑÆÍÏ\u0004\u0014ê(YUbsJ",
+      "contains": [
+        "UBS"
+      ]
+    },
+    "habitual": {
+      "hash": "üMHZ?«H}[AKRÇ,qÛìùð\u0019ÿåó9{bÓ'«v",
+      "contains": [
+        "MHz"
+      ]
+    },
+    "hamsters": {
+      "hash": "ÄiÈ\rÂ(^ùp{À!É}úøþ\u001flAg÷Àù",
+      "contains": [
+        "lag"
+      ]
+    },
+    "handicaps": {
+      "hash": "\u0007{[aDOÍ*7ü´-[g[HþBF&úù@*\u0007\u0017",
+      "contains": [
+        "ado"
+      ]
+    },
+    "handle": {
+      "hash": "Â¡\u0016ª\r\u0014{Õ½¬ÂñÌD0\u0014UôPeN×VéÉ=á±áÒ",
+      "contains": [
+        "pen"
+      ]
+    },
+    "handmaids": {
+      "hash": "ÀàÐiNS¸#¢<0Åçè¾«(°K(Üµj2`²\u001eÖê4",
+      "contains": [
+        "ins"
+      ]
+    },
+    "handshakes": {
+      "hash": "\u0011\u0010'4AC4vh!+þØ|ù¶\u000e:seTóPRÀ2H¨",
+      "contains": [
+        "Set",
+        "set"
+      ]
+    },
+    "hardeners": {
+      "hash": "0¸\u0002tô+Ó5\\\u0018CS±a\b©¥ruNÔíNÕÅðt¹m",
+      "contains": [
+        "run"
+      ]
+    },
+    "hardtack": {
+      "hash": "Ù\u0005^åHeY2|ÿHô¼k$SNs?WW~»»ØÓÂ1",
+      "contains": [
+        "hey"
+      ]
+    },
+    "hated": {
+      "hash": "Üh\u0013\f÷ãvë)1=MAbjTÖlY®¢buRþî}r",
+      "contains": [
+        "bur"
+      ]
+    },
+    "haughty": {
+      "hash": "HÌBÛ¯PþHES§Ôo\bG^À§röÅp¾|ðÝ\u0013t\u0017",
+      "contains": [
+        "hes"
+      ]
+    },
+    "hazards": {
+      "hash": "Ú-ïDÑX´iaöö(|ÀßiYAw\t­æ\u0013¼<Àh",
+      "contains": [
+        "yaw"
+      ]
+    },
+    "headiest": {
+      "hash": "H¯¢àÆÔXóc­6óÛ¶aA;B\u0013\u0015\u000eÖFEB:Úôx%",
+      "contains": [
+        "Feb"
+      ]
+    },
+    "hearties": {
+      "hash": "'\u0007êµ\u001aëÂûx\u000bmoE'\u0015\u0000l\fyT_ì\u0002=ûð\fô",
+      "contains": [
+        "Moe"
+      ]
+    },
+    "heartiness": {
+      "hash": "rVyÒnÙ\u0004YDÓ:\u001cý7«\n\fgobõN§rÖ°Nß",
+      "contains": [
+        "gob"
+      ]
+    },
+    "hierarchy": {
+      "hash": "ÿ¿$\u0006QBbbX:}cjëÀÙ;ËÌiF(öúc\u0006\u0019$1",
+      "contains": [
+        "BBB"
+      ]
+    },
+    "hikes": {
+      "hash": "n\u0004¢y_J8|õÜÝ¾{äçÖ¤\u000bQÑrAnû;",
+      "contains": [
+        "ran"
+      ]
+    },
+    "hinting": {
+      "hash": "ÈµÜ:CQMsQ\u0006rIb\u0018á§sGíÙ;V´t\u0005/",
+      "contains": [
+        "rib"
+      ]
+    },
+    "hippy": {
+      "hash": "/÷hOP½¡-á@ZM[å0tV³ÒYj­\u0016ÉÜbí¢",
+      "contains": [
+        "hop"
+      ]
+    },
+    "hiss": {
+      "hash": "ÉJhÈGÁi\u001e´è|ÂnaN\u0002¬¶ÇÐU½\nn&j3\u0019¡",
+      "contains": [
+        "Nan"
+      ]
+    },
+    "hitched": {
+      "hash": "VÂÏ«­þ¦x\u0019¯ó$$@Úµ4Ýi9BsdÒ\u0010¾iy",
+      "contains": [
+        "BSD"
+      ]
+    },
+    "homage": {
+      "hash": "sp³º*:,\u0006\u000få¦Ò\u001eÓñl´eûî¦SIM K5ñ",
+      "contains": [
+        "sim"
+      ]
+    },
+    "homework": {
+      "hash": "@CUR#¹)S\b`8Ï\u0005¤\u001b'©ñ6é,\u000ekq¡èÉ?B\n",
+      "contains": [
+        "cur"
+      ]
+    },
+    "honked": {
+      "hash": "Æ½Ñþ\"ät?9¯:hµüM\u0000òìpUB¥Ô=õH",
+      "contains": [
+        "pub"
+      ]
+    },
+    "hooping": {
+      "hash": "áPatV5¤øÄþ0Ð°\u0019ó+þ¼n¡\u0007gfwÀ1®",
+      "contains": [
+        "Pat",
+        "pat"
+      ]
+    },
+    "hooraying": {
+      "hash": "²Äe«ÛXS¢\u0004Ã«äà£æBUt:À\u0018=-í¡¾Z\nã",
+      "contains": [
+        "but"
+      ]
+    },
+    "hostilely": {
+      "hash": "¤í[83÷¨«ÛÊ\u0012\u0005M\\ÅîTÅ&£TOtæH\u0019$½eS",
+      "contains": [
+        "tot"
+      ]
+    },
+    "hostility": {
+      "hash": "£åPs&âñW¥\u0000Õ\u0004CUtd\u0002ÕáÉ\u0000Ïßr\u0015ÆÚ",
+      "contains": [
+        "cut"
+      ]
+    },
+    "hourglasses": {
+      "hash": "Äo_\tJImrÂè\u000e)%@å{\u0002ákn\u0016PQ\u0005µ%",
+      "contains": [
+        "Jim"
+      ]
+    },
+    "huh": {
+      "hash": "ä\u0010ÑÿV^,nIlôH­\u000e©ÈòS2Í¿ÈRFÍ×",
+      "contains": [
+        "nil"
+      ]
+    },
+    "humans": {
+      "hash": "tN²Ñ ¹»èÐ^°+]\u000bÔ±µJ¦\"ªÞPin-kEÃ",
+      "contains": [
+        "pin"
+      ]
+    },
+    "hunch": {
+      "hash": "~õ\u001f ±\u0015B0Ê\u0018zIpí,\u000bÔ}ÉÏP`nD\u0012ÂP",
+      "contains": [
+        "zip"
+      ]
+    },
+    "icons": {
+      "hash": "\u0004ÎhjeÚ<û68#íE|\")ÖgOA××Â»ÔÂhU ó",
+      "contains": [
+        "Goa"
+      ]
+    },
+    "idler": {
+      "hash": "ªÙ:7æHeRãr&Ë\u0015ç\fý\u0015)ë«ç[À?áá×#I",
+      "contains": [
+        "her"
+      ]
+    },
+    "illegal": {
+      "hash": "Nsÿ\nÈdJ8eøµÏð°\u0016!hoNoU%#Ü¶\u001c\f",
+      "contains": [
+        "Ono"
+      ]
+    },
+    "imbalance": {
+      "hash": "+\u001eß{chU.[§haL\u0017¾áýÒ\u0007¯ÓpøRmQª",
+      "contains": [
+        "Hal"
+      ]
+    },
+    "immure": {
+      "hash": "#Óîª\u0017JôÓ¨ìÛq1¿rV\"\u0017^U\u0010K'KgaY",
+      "contains": [
+        "Gay",
+        "gay"
+      ]
+    },
+    "impecunious": {
+      "hash": "¡ñc\u0001fÒ=å²~|·øOdd2r\u0004­sÞÏ]\u001fAª]¤",
+      "contains": [
+        "odd"
+      ]
+    },
+    "imperials": {
+      "hash": "u\u000ecam¬\u0001ìÌÏº¶\u0011@§6Z\u0014¤m¹¥=j F¿óþ",
+      "contains": [
+        "cam"
+      ]
+    },
+    "imprecision": {
+      "hash": "\u0018Ñ%5\u0015×­Xïÿ\u0014$\u0005GEo\fº¢P6M¬Dó\u0005\u0013tÔçös",
+      "contains": [
+        "Geo"
+      ]
+    },
+    "impressionists": {
+      "hash": "p6\u000e4D\u0001@\t\u0012Ør£a,'Mt\u0010mB;ûx8NsA¨8",
+      "contains": [
+        "NSA"
+      ]
+    },
+    "impudently": {
+      "hash": "` \rKXã«@T«vÕ\u000f¼|ª|ã.µæ\\fEBÜR5\u001d¥ü",
+      "contains": [
+        "Feb"
+      ]
+    },
+    "incinerating": {
+      "hash": "ÿYÍY?S|x¥x]>õ¡¹fg-'nSa\u000eç$J¥r",
+      "contains": [
+        "NSA"
+      ]
+    },
+    "inconveniencing": {
+      "hash": "*ß³É`¨_Ñ\u0015dÞ­±È¸K\u0012\tnApÇI×Íjsq<",
+      "contains": [
+        "nap"
+      ]
+    },
+    "individualize": {
+      "hash": "\fIO\u000ehXW/\fBuTÃÐ§\u0011¬à\b÷£U·ÝÝÈ\\Ç",
+      "contains": [
+        "but"
+      ]
+    },
+    "indulgence": {
+      "hash": "\u0015îq»=í¡\u0014nSh>ý\\û¬FEó\u000eúp\u0011p\u0005.ÌFoxf\u001a",
+      "contains": [
+        "Fox",
+        "fox"
+      ]
+    },
+    "industrializes": {
+      "hash": "§º­\b÷m8pÅiÎz~]AFHUtwJb\f\u0000%}\u001664X",
+      "contains": [
+        "hut"
+      ]
+    },
+    "ineptly": {
+      "hash": "¨¦\u001d:ßBÏ£óbô$áKiPg\u0003øj0Fh\u0005N\u0014#î5",
+      "contains": [
+        "Kip"
+      ]
+    },
+    "inferior": {
+      "hash": "Öz\u0002ëÏ\u0017CyÒM@EAt\\àcëÎt`øÇ+PèÐtË\u0014",
+      "contains": [
+        "eat"
+      ]
+    },
+    "infield": {
+      "hash": "Í\u0006£veT~§!àÌa:Q\u00055i×»yë\r}IDW©¯\u001d",
+      "contains": [
+        "vet"
+      ]
+    },
+    "inflects": {
+      "hash": "\u0005\u001eí·¯o\\^AlIc\u001bÂ¢Ô»dÄ\fYEÃãõ¿",
+      "contains": [
+        "Ali"
+      ]
+    },
+    "inhalations": {
+      "hash": "Ò².W©XíÑ`\b·\r¦drYÁÿ{Õ[¼xºÎË\u001a",
+      "contains": [
+        "dry"
+      ]
+    },
+    "interns": {
+      "hash": "+humØ¹eÑ¤Õ¨q¨\u0016Ï±\u0010¶\u001dÉjü\u0004kÍk",
+      "contains": [
+        "hum"
+      ]
+    },
+    "interplay": {
+      "hash": "[Ëå~\u00121}ÀL\u001aoqI¸îH²õ\u0018ñçleg[Õóºº",
+      "contains": [
+        "leg"
+      ]
+    },
+    "intrusion": {
+      "hash": "\u001d\u0003ù½_\u0004\u0000yeNØ#fr/!8 È¹ëÏ)\u0001\u0003Qp",
+      "contains": [
+        "yen"
+      ]
+    },
+    "invincibility": {
+      "hash": "CdIM6ù\u0016±dãµ*Thî\núR\u0007|@ Ã9/È",
+      "contains": [
+        "dim"
+      ]
+    },
+    "invoking": {
+      "hash": "å#;YNzapàÚ 15\u0012ý\u0003¼­'\n¸?W³_®\u0005ÿ",
+      "contains": [
+        "zap"
+      ]
+    },
+    "involvement": {
+      "hash": "?Ë¿¢Yñ½YÒm\u000eDùÏNDM\u0007¼Ñ\u000ftaPN\u000e\u0004ß¸µÉ",
+      "contains": [
+        "tap"
+      ]
+    },
+    "irregular": {
+      "hash": "U\u0001Uý\u0010¸2£å4yÄ(7üÄ_nIXGì¨KÄö¦",
+      "contains": [
+        "nix"
+      ]
+    },
+    "is": {
+      "hash": "úQýI«öw\u0005Ö£]\u0018!\u0011_õc:ì\u001f¿Ü]IVAoWö",
+      "contains": [
+        "Iva"
+      ]
+    },
+    "isotropic": {
+      "hash": "p5k\b\u0007«öã?Uib\r@kó¤¿(H{E\u001b»ÓÕLBJ}",
+      "contains": [
+        "LBJ"
+      ]
+    },
+    "items": {
+      "hash": "_<OÓä\"çÂö&t¬'lÙ\\9inK$\u0016T",
+      "contains": [
+        "ink"
+      ]
+    },
+    "jabbered": {
+      "hash": "éz\u0005sFiTÞÓtÆlº²\u000bõÉý\u0018¥\u0016öD¼ Ø¿à|\b",
+      "contains": [
+        "fit"
+      ]
+    },
+    "jewelers": {
+      "hash": "ãTit\"E­äÃ\u0004\"pÂÊ´JÔÅ\u0006\u0005ZÇ\u001dJ2",
+      "contains": [
+        "tit"
+      ]
+    },
+    "jitterbug": {
+      "hash": "\u0001lEW!ùÕ¾ôøå\u0011Éb,ü!Íb°8{F¯}",
+      "contains": [
+        "Lew"
+      ]
+    },
+    "jugular": {
+      "hash": "ÕÏ\\\tE/Ë\u001aTÃW)?éãx\u0013òù\u0019â´óæ MUM",
+      "contains": [
+        "mum"
+      ]
+    },
+    "justifiable": {
+      "hash": ",ZæRqnÑúÑ$g[(GSHyTÁ+³°§/·F;5",
+      "contains": [
+        "shy"
+      ]
+    },
+    "kiddie": {
+      "hash": "\u001b7\u0003­Ot\u0000¢ñEäpþ\rê>Ö þyTCJoN\u0011GTu\r",
+      "contains": [
+        "Jon"
+      ]
+    },
+    "kiting": {
+      "hash": "\u0011\u0004»Àõ¦.G0Eíþ£¸OnE$$vÄZ³}þ[8\u0016\u0017",
+      "contains": [
+        "one"
+      ]
+    },
+    "lacking": {
+      "hash": "\u000e¥f=\rÑ{¡<¢xâ)`®¿ÏemOé³k4Ò_º",
+      "contains": [
+        "emo"
+      ]
+    },
+    "lake": {
+      "hash": "o\u0002\u001f\u0002hÕÝ\rN(jÕ /W3_*ÅhpLOxeÉxyD>ø",
+      "contains": [
+        "lox"
+      ]
+    },
+    "landholders": {
+      "hash": "þÐµpAp\u001aØE\\\r¶\\L\u001bIÖH*ë½\u0003v}d»L\u0019$",
+      "contains": [
+        "pap"
+      ]
+    },
+    "laudable": {
+      "hash": "¨²eva_±ýø.. ó1ÓÔÎ Ue\u000e÷¹\u001d@¥Öt",
+      "contains": [
+        "Eva"
+      ]
+    },
+    "leftover": {
+      "hash": "1ÌKAë\u0011nýþz«dçvÚhoe0BÚ2YÀ»^Ó\u001dåÀ_N",
+      "contains": [
+        "hoe"
+      ]
+    },
+    "legitimize": {
+      "hash": "V\u0017(L\u001fÄOûäkiMÛøÍë\u0002ajDø\u000e{ju¨\u001a",
+      "contains": [
+        "Kim"
+      ]
+    },
+    "lemony": {
+      "hash": "$6W$fà¡|¤\u0013¬À,×-ApT>2\u0012©M«a§³Y",
+      "contains": [
+        "apt"
+      ]
+    },
+    "lettuce": {
+      "hash": "HiT\"ûÂZÐ\u001bcqí»~\u0006R#ºBx~8_?¼S\u0002",
+      "contains": [
+        "hit"
+      ]
+    },
+    "levellers": {
+      "hash": "ß·=¥FÖÈ¸O¤éUspa&\u001cô? Åó8Ñ­Ñ<",
+      "contains": [
+        "spa"
+      ]
+    },
+    "liberalize": {
+      "hash": "#ÑÁ\tÖ;¼k+·~]ã@Jñ|pÖ\n?n_PIE|r",
+      "contains": [
+        "pie"
+      ]
+    },
+    "lithographs": {
+      "hash": "^QrýQ\u0010ÚÊK;F¹G$kF'PUg2ôå+ï½]n",
+      "contains": [
+        "pug"
+      ]
+    },
+    "liveries": {
+      "hash": "'$CAD9HÕëZAOÞQ$\rê5©Á6{~(|Ul\u0005Tf",
+      "contains": [
+        "cad"
+      ]
+    },
+    "loft": {
+      "hash": "Åf±\u0007\u001fz-X¾¹ý¬ðyPÛÊmEt\u0013ÿjê",
+      "contains": [
+        "met"
+      ]
+    },
+    "loftily": {
+      "hash": "­´Sl\u001aô,çÂFém\u001b¿\u000eÕwAYHn$õé",
+      "contains": [
+        "way"
+      ]
+    },
+    "logistic": {
+      "hash": "\u0003£\u0011eliàÀ\u001a§x:¯Âr`\u0013\u0011ÕúúL\u0005:ÕÃÑ}äK­Í",
+      "contains": [
+        "Eli"
+      ]
+    },
+    "love": {
+      "hash": "hotj¶ø6××\u0005gÃ\u0002Ãùëµî\rï=\u0012 îN4õá1",
+      "contains": [
+        "hot"
+      ]
+    },
+    "mackerels": {
+      "hash": "Þ¥àü±®-h­ <ÍkÌYOn°)\u0012F9u«sE\u0016õ",
+      "contains": [
+        "yon"
+      ]
+    },
+    "maidenheads": {
+      "hash": "F°éÄFDÐ\b«×rí@ÅK«{x\u0001\u0005ÞGooê8©z{Íë",
+      "contains": [
+        "goo"
+      ]
+    },
+    "mainstream": {
+      "hash": "¼ÃkAyÒ©F£8ôD\u001eû>hc0\u0012'\u0007/\u0006",
+      "contains": [
+        "Kay"
+      ]
+    },
+    "managing": {
+      "hash": ">)åçóÜD©.´ýâ\u0018\u0000Å¶àA\f\u001a!á«ÓÎiZit",
+      "contains": [
+        "zit"
+      ]
+    },
+    "mandolin": {
+      "hash": "\tlÛu°Á,y\u001c\u0010\u0013c\t¤Fur4}\r\\SH\bÓýHª",
+      "contains": [
+        "fur"
+      ]
+    },
+    "manuring": {
+      "hash": "ûÓÌA\u0001!(¨ÃCAm ýl£ª\u0007»¾\u00135ÝCnV\u000b\n+7Õ",
+      "contains": [
+        "cam"
+      ]
+    },
+    "mariner": {
+      "hash": "}¨\u001dø_KÊmTRyÅA\u00195æTÕ6]AB×ç8Ëª´g",
+      "contains": [
+        "try"
+      ]
+    },
+    "matured": {
+      "hash": "ÌÉ\u001d\u001848;Ð´\"ºÊ÷4TMOW\u001bK­×)Æ1ERD",
+      "contains": [
+        "mow"
+      ]
+    },
+    "maxim": {
+      "hash": "çF*ORµ\u0000\u001cÛë=lewY\u00102LãªÍùá\u0003ô£ÊC",
+      "contains": [
+        "Lew"
+      ]
+    },
+    "maximal": {
+      "hash": "0ãúCoCt]Á{QÛ\u0014{\b(à\u001f$-l\u0004Rï\u001c\\Ï\u001d8",
+      "contains": [
+        "Oct"
+      ]
+    },
+    "meaty": {
+      "hash": " dÀ&¶&ý\fEÆôÕ\u0016('ÿ¥rIí¬u-åfErE",
+      "contains": [
+        "ere"
+      ]
+    },
+    "methodical": {
+      "hash": "Kàµå¬ÈµUØ\u0001°\\jotÏÍªÛ\u000bNl\u0011>æJu+ù",
+      "contains": [
+        "jot"
+      ]
+    },
+    "microsecond": {
+      "hash": "Ú;Î¶³eË\u0007¹~ÏNfõ:{&Jaró\u001fÊW·W,µó",
+      "contains": [
+        "jar"
+      ]
+    },
+    "middies": {
+      "hash": ">E/Ëâ\nKHLYEaZ@øé=£Ö}iË»Kécnýâ",
+      "contains": [
+        "lye",
+        "yea"
+      ]
+    },
+    "midwifes": {
+      "hash": ">Gr!ÁþG6º\u001a1ÙDÆd²:}\u000f°­`t\tâAte®2I",
+      "contains": [
+        "ate"
+      ]
+    },
+    "military": {
+      "hash": "q×WVg*ÅÉpº®ãNíÒ8\u0015ïZ\u0006\bÛ|Ô%hew",
+      "contains": [
+        "hew"
+      ]
+    },
+    "millepedes": {
+      "hash": "JË2}§DiD¹÷WjxMEò1ehK³Ç1üµ±\u0016{",
+      "contains": [
+        "did"
+      ]
+    },
+    "minesweeper": {
+      "hash": "'Feyø:ª1£a°¨Z\u000b0\u001dÁkÎQ¬y\f±ÑYÐ",
+      "contains": [
+        "fey"
+      ]
+    },
+    "miniaturization": {
+      "hash": "´m_\u0006<\"ð\u001eü£EtEDÕ\u0001;RôQh:7OHÖW+,õ",
+      "contains": [
+        "Ted"
+      ]
+    },
+    "ministered": {
+      "hash": "IB\u0005ÆoaFÌ;?\u001dîCqKÐÃÅ\u0000¸È`G\u0011|Ø",
+      "contains": [
+        "oaf"
+      ]
+    },
+    "ministration": {
+      "hash": "B\u0018K\u0000ôEcO¹){F,\u0004\u0016Ñ*%RR$ð\u001d¾(Ü/]",
+      "contains": [
+        "Eco"
+      ]
+    },
+    "minutia": {
+      "hash": " qå·á\u001cy\"¶äa3+#JUGºèÚÎ¹ú,g÷",
+      "contains": [
+        "jug"
+      ]
+    },
+    "miscalculated": {
+      "hash": "\u0017u û\u0012Å\u0012ô\u0010l«ðDv3\u0004 \u001d5×fÈWEe\fDÙÈ",
+      "contains": [
+        "wee"
+      ]
+    },
+    "misconstruction": {
+      "hash": "(§®155ï\u0019½`!5Aô¹$½QGeLHnªÔ",
+      "contains": [
+        "gel"
+      ]
+    },
+    "misquotations": {
+      "hash": "FSf\bÄwÿncÜ(JÌ/¸±5\u0000\u0005áO¡fF\t\u0019s¥",
+      "contains": [
+        "FSF"
+      ]
+    },
+    "misspending": {
+      "hash": "`6´\u0015°ÛË\nC¸¸Ûø¥\u0013;+5=doaRx\u001d\u0011@-îgÊ",
+      "contains": [
+        "oar"
+      ]
+    },
+    "modals": {
+      "hash": "õÇdÎ\u001eÉ» hPâ\u0011yµukLedÔ/n#·ñûð\u0003",
+      "contains": [
+        "led"
+      ]
+    },
+    "monicker": {
+      "hash": "U¢U\u0018Æ\u000bYOæâfCuDØW7\u0004Çß±dª,¸j6\u0019",
+      "contains": [
+        "cud"
+      ]
+    },
+    "moonshot": {
+      "hash": "gIg]¡ú§\bY1#e¶ê¶D$M]\u0001ÌôFDÁ=\t\u000eç",
+      "contains": [
+        "gig"
+      ]
+    },
+    "moustaches": {
+      "hash": "P4CÑ8ëâémIg\u0014dÎè\r]Æê´â[x~b\u0018ì ",
+      "contains": [
+        "MiG"
+      ]
+    },
+    "mower": {
+      "hash": ";\u0007eKEò¿\u0015\u000f''Ï9Ð\f\u001f1D2@³IãmT^Ö­\u0013",
+      "contains": [
+        "eke"
+      ]
+    },
+    "muffs": {
+      "hash": " Ðày¶P\u0006â\fd42pENâÆÏ9<æ~d\r»?Êm\u001c",
+      "contains": [
+        "pen"
+      ]
+    },
+    "muscatels": {
+      "hash": "\n«\f\u0019ä!)!Cå=QPyxBþ¸ÑHk3×>5 É\u0005 ",
+      "contains": [
+        "pyx"
+      ]
+    },
+    "musicology": {
+      "hash": ";Ã³8^\u0006\u0016fÈnrip)\u001a]qç@ÎF3\u0017zÏ\u000bHQu",
+      "contains": [
+        "rip"
+      ]
+    },
+    "mussel": {
+      "hash": "®wAx\u0001`-\u00184¡ñD\u001305aoåÆÌåmÒ\u001aÃaú\u001c",
+      "contains": [
+        "wax"
+      ]
+    },
+    "mystics": {
+      "hash": "45Ú¹ËA*àoöHEM K6··\u0019Ù^ùJz JÛ\u0002I",
+      "contains": [
+        "hem"
+      ]
+    },
+    "naively": {
+      "hash": "§NOE}UBÈ³ðMåfF¬s»T¼\u0013@Mß¥2\u0002ÒF/",
+      "contains": [
+        "Noe"
+      ]
+    },
+    "nanoseconds": {
+      "hash": "e\\;°)\u0003K[ìxcoâWöü¤íM+àâQ£FþlUZ",
+      "contains": [
+        "Luz"
+      ]
+    },
+    "navels": {
+      "hash": "¥(þ²FüôAZ\u0014xdnAG~3ÅVÍð \u0003sVÙ¬",
+      "contains": [
+        "nag"
+      ]
+    },
+    "needful": {
+      "hash": "¢íÒ$<`|Ex\u001cxM?3¤Å°caB\u000b»Á\u0013<ÓcëÝ±",
+      "contains": [
+        "cab"
+      ]
+    },
+    "negligee": {
+      "hash": "\u000b:Ú*\u001aÔÜùqom÷Ï£ÔìkÆ½Ú©\u0013\u0005&wc$Ö¼`",
+      "contains": [
+        "Qom"
+      ]
+    },
+    "neoclassicism": {
+      "hash": "6Ê=S\u0015\u0014CABnZ\u00077%ñ1Ø/Än£\u001daÖ",
+      "contains": [
+        "cab"
+      ]
+    },
+    "neurosis": {
+      "hash": "\u0016*<qwaDÁô\r\u0012Wÿ\u000eÿÈÕ\u001bÛpeå,øc*!",
+      "contains": [
+        "wad"
+      ]
+    },
+    "nitpicks": {
+      "hash": "\u001e;êÕd\u0014¡jñüzÄÙ¾S¬­¥\u000f=3[ELiÞkbé¹",
+      "contains": [
+        "Eli"
+      ]
+    },
+    "nominatives": {
+      "hash": "àâ­Üõyx·Iût0KoHo¹,\f½ä\u0001JFºD¢ò\u0014",
+      "contains": [
+        "oho"
+      ]
+    },
+    "nonobjective": {
+      "hash": "W\u001dWizz\u0000«mêñª¦y3î¯qM\bé¥#áÈÃy\u0011\u0002^\u001a%",
+      "contains": [
+        "wiz"
+      ]
+    },
+    "nonskid": {
+      "hash": "fJCÃ´V~S¾$\u0001ÒÙ#à/#\\hu­5ÒaIDê",
+      "contains": [
+        "aid"
+      ]
+    },
+    "nonvoting": {
+      "hash": "\u0007kj÷|PÚî«\u0011U}yÐà6ÏVÅlÒIKEßÓ$ÒG",
+      "contains": [
+        "Ike"
+      ]
+    },
+    "nooks": {
+      "hash": "\b\tÍò°roW\u000f·Åü¡ûÌv'¸\u000f§\u001d\u0001\u0006³º©¢è\u0016åÌ",
+      "contains": [
+        "row"
+      ]
+    },
+    "nosy": {
+      "hash": "AdZ\u0015À>s9Rä+Ø[\u000eè\"«B¿á)¨.?óKø\bæ\u0012",
+      "contains": [
+        "adz"
+      ]
+    },
+    "note": {
+      "hash": "í´ebBä\u0005<l^¤·ë2\rìw>\u0010¥}&¹]Ï\u0005døã\u0010ø",
+      "contains": [
+        "ebb"
+      ]
+    },
+    "notional": {
+      "hash": "Ô\u0016ÒLToo£zG.zWÏ_§pe*B2§\r{â×ßû\u0011",
+      "contains": [
+        "too"
+      ]
+    },
+    "nuanced": {
+      "hash": "knræö*ß\u0003ä¼yWZaP\tl>ÌS\n\u0000¥\u001d\u00101ß¿",
+      "contains": [
+        "zap"
+      ]
+    },
+    "obsessive": {
+      "hash": "\u0001`\u001dKW\u0013\u0015É\rJFk\u001fÛ¬9æ6-Ç¦BÅÙ\u0000Ø{j¨\u0001",
+      "contains": [
+        "JFK"
+      ]
+    },
+    "obvious": {
+      "hash": "Ü÷=\u0005:Ä\u001c{¸TY*ä±doE£Óìv½ìThµ6",
+      "contains": [
+        "Doe",
+        "doe"
+      ]
+    },
+    "ocher": {
+      "hash": "Ó!¬¿\u0017À\u0011Á9Øþ¸\u0018.ájIB¡ceË¤ùü¡¼¿¢",
+      "contains": [
+        "jib"
+      ]
+    },
+    "opener": {
+      "hash": "¬\u0005>ÐºAÁôzü÷z¼\u0005Ì\u00116\u0001P\u0017@JoyÕª¿\u0001åÃ",
+      "contains": [
+        "Joy",
+        "joy"
+      ]
+    },
+    "openers": {
+      "hash": "&#éª·\u0005/fROÎÿÄ»ËWÉo¤üÉÙ§jOb",
+      "contains": [
+        "Job",
+        "job"
+      ]
+    },
+    "opinion": {
+      "hash": "Cy\u0010ZÊ@ü<k|runùxá´\t\u001b¢\u0001fy¶K*ïðÝñ\u0016",
+      "contains": [
+        "run"
+      ]
+    },
+    "orc": {
+      "hash": "$X.Î%fcs==wnÙ·e/gINB{¢\u0012cÕnÓpq",
+      "contains": [
+        "gin"
+      ]
+    },
+    "orifice": {
+      "hash": "åT\u000eÊ®½ñÈC\u001fggÎ\u0001¸xÕ\u0007HowH#ËE\u0014B±×Ç",
+      "contains": [
+        "how"
+      ]
+    },
+    "orthogonal": {
+      "hash": "7¥N\\AFTØu/§\u0019©/\u000f<¦üÖ:ø#J;\r\r\u00129u",
+      "contains": [
+        "aft"
+      ]
+    },
+    "orthopaedic": {
+      "hash": "¼\u0007\u000b¶\u0006AXXa-0ÏbEe,X'Zvk\t®°ÐiUB\f\b",
+      "contains": [
+        "bee"
+      ]
+    },
+    "outcry": {
+      "hash": "\u000fQ²Õv«qmeT\u001f'}t\u0001qG×üÒ\u001aUýk¤\u0010",
+      "contains": [
+        "met"
+      ]
+    },
+    "outdistanced": {
+      "hash": "Ò|\u0013<Ê\u0002(ÁÎ3T\b¶\u0002ØG\u001eILAào×\u0002µ1`ò",
+      "contains": [
+        "Ila"
+      ]
+    },
+    "overzealous": {
+      "hash": "5Jf\u000b\u0019ÊàÒØÆA{ÁFLU§ús:S\fJ]¥.Þ~§",
+      "contains": [
+        "flu"
+      ]
+    },
+    "owes": {
+      "hash": "©#Ô\u0004Hå£áhÂmeL@îí¥-K,\u00197$bY;ÒN\\",
+      "contains": [
+        "Mel"
+      ]
+    },
+    "pads": {
+      "hash": "\b\u000fÔ}#J¬\rÈß\u001aï(\u0018ned\u0012ß\u0001ÇÅTAÌ",
+      "contains": [
+        "Ned"
+      ]
+    },
+    "palmetto": {
+      "hash": "x\u0019à\né¨W\u0003\u000fAÕ\"Vkýßè\\èÎóò#ReP4",
+      "contains": [
+        "rep"
+      ]
+    },
+    "panegyric": {
+      "hash": "A\u0006\u0005û%\"¶Á¡Ò${¶dlX¢Y7ohsØy<",
+      "contains": [
+        "ohs"
+      ]
+    },
+    "pangs": {
+      "hash": "ÛA¢½\u001aroHMä¢:iòbVÒ¤Ö\u000f\r3×\u0017±ç\u001fõ",
+      "contains": [
+        "ohm"
+      ]
+    },
+    "pansy": {
+      "hash": "ønOtõ+1\u0007.F\bü~ë«³GÍ«\u000b#°qQótqo",
+      "contains": [
+        "not"
+      ]
+    },
+    "panted": {
+      "hash": "või¾ÆòÀùÿM^ÊðÅ»£¼Ú-\u0013ÞGÏ0²DHEx",
+      "contains": [
+        "hex"
+      ]
+    },
+    "parings": {
+      "hash": "Öeq#\\wëE©äzûÓLax\u0019Ô³~<\bü©èQ",
+      "contains": [
+        "lax"
+      ]
+    },
+    "pauper": {
+      "hash": "Òý=\u0011CAw\ntfèZ3Îéq®;Ñ94JôO²\r;»«ÂÉÃ",
+      "contains": [
+        "caw"
+      ]
+    },
+    "pavilions": {
+      "hash": "Jar\u0012\u0011mqÂÎ·¥AZ\tDÃ\u0018\u0017ÝEwÖê¬«´",
+      "contains": [
+        "jar"
+      ]
+    },
+    "peed": {
+      "hash": "=\"IOs©qV*¡äØÚs\n2×v\rýh:ÊðbµýH¸â·",
+      "contains": [
+        "iOS"
+      ]
+    },
+    "pended": {
+      "hash": "èÝ\rWÏËtiMòiÂ÷D='Ç,mË¦ÌÓÔ",
+      "contains": [
+        "Tim"
+      ]
+    },
+    "penitential": {
+      "hash": "óûUï+Ìyam`ÀéÆ~2,d\u001b\u001eO#ßÆ\\·î+Õþf=",
+      "contains": [
+        "yam"
+      ]
+    },
+    "penitentiaries": {
+      "hash": "æÙ\u0002ÚªLaWðKSKõÉyÀ¬îÐ\tº\u0007¯<v[",
+      "contains": [
+        "law"
+      ]
+    },
+    "perfect": {
+      "hash": "úþ÷Þó(»Ôñ\u0007y¹bZ ¿ª\u0014=zæNoWpä{QÍ\u001d",
+      "contains": [
+        "now"
+      ]
+    },
+    "perfidies": {
+      "hash": "X.%KH v~'¥FójAN}x\u0015÷\tÉ«:|Zgv\u0011y",
+      "contains": [
+        "Jan"
+      ]
+    },
+    "perforations": {
+      "hash": "ãNOsmIRë }Ì*Ý|\u0019\u0003L\u0017ü\tD\u0002/,Ñ",
+      "contains": [
+        "Mir"
+      ]
+    },
+    "perihelion": {
+      "hash": "ý\u0013WÊ®»vó\u000bO`Rq\u0003tAròÕHé6GàMn\u000b",
+      "contains": [
+        "tar"
+      ]
+    },
+    "philologists": {
+      "hash": "ÏÁlÈ±b\u001fû¤z\u0011$F\u001eHôh~É¸9»Ned\u0007ò´^Í",
+      "contains": [
+        "Ned"
+      ]
+    },
+    "pigeonhole": {
+      "hash": "4ÀWÅûÊ#h7-\u0002/³É%B«5§hHX\\AÃMAlL",
+      "contains": [
+        "all",
+        "mall"
+      ]
+    },
+    "pigging": {
+      "hash": "F\u0006ÌÏ_Â\u001bº<Ô>Û@§â¶5\r²¬úýWaNv",
+      "contains": [
+        "wan"
+      ]
+    },
+    "pikes": {
+      "hash": "Â%|uziW]&©çÃG³×AÔzÉáÒ%C!ËÏF½",
+      "contains": [
+        "Uzi"
+      ]
+    },
+    "pillage": {
+      "hash": "B\n\u0006««ÄöBRR\u0017ÇÜ\u000549\u0018C¡ªå§\u001f91ÿÇý;\u001c",
+      "contains": [
+        "brr"
+      ]
+    },
+    "pin": {
+      "hash": "dôju&¡Ò4eRE:äxÊQ$Ftõ²\u001b¡P½H;9÷È\u0012",
+      "contains": [
+        "ere"
+      ]
+    },
+    "pinfeathers": {
+      "hash": "'iy;×\u0016[¹Ö»9¥j å±°DNOD?w4¿«",
+      "contains": [
+        "nod"
+      ]
+    },
+    "piped": {
+      "hash": "D\\îîºc|kJNEDÎÙ\u0007å/'C(LÃ\u0003Ö±yXÈà\u000e",
+      "contains": [
+        "Ned"
+      ]
+    },
+    "pique": {
+      "hash": "Î9ø·\u0017@4piEc\u0019îÞ÷EqÐ\u000b(°#ÅÈ$AÌ©È",
+      "contains": [
+        "pie"
+      ]
+    },
+    "piracy": {
+      "hash": "Ä`Ö¥m¸ØNnã¥ÉlJrÎ\u0011p\u0011l«:ÐeDIEGì®w",
+      "contains": [
+        "die"
+      ]
+    },
+    "plagiarizing": {
+      "hash": "lò¾Ð\u0002<¦Uö®ºo@Oft°<\u0006\u001eRF\"bì_\u0007NK",
+      "contains": [
+        "oft"
+      ]
+    },
+    "planter": {
+      "hash": "\u0016¤0Ü#jFADöEó§©b1!ýÎY\nH\u0002_2@è#",
+      "contains": [
+        "fad"
+      ]
+    },
+    "pleats": {
+      "hash": "©\u001b\u000eE½°AéR<ð\u0019paW]\u0017\u0000á ùCë]\u0012\u0007½",
+      "contains": [
+        "paw"
+      ]
+    },
+    "pleurisy": {
+      "hash": "\tX\u0014ôfá\u0010óð\u001fö`xÉBUS9¥4)Ê&Y8¯\u0015¨Å1y",
+      "contains": [
+        "bus"
+      ]
+    },
+    "pointedly": {
+      "hash": "t´vkID\u0004íéNb\u0012÷Bà¿\u001b<#ºØ(aÂ+§'±",
+      "contains": [
+        "kid"
+      ]
+    },
+    "polestar": {
+      "hash": "ÉµVÌ\u001c\u0013í7\u0006ZÒ×Ò!]E·\u0007\u0007soP^²\u001e¦e0ü",
+      "contains": [
+        "sop"
+      ]
+    },
+    "polishes": {
+      "hash": "õpaWJÉéÞìuASüÎÚÔnr\u000eP\fpC¦Ì1<ù",
+      "contains": [
+        "paw"
+      ]
+    },
+    "portrayed": {
+      "hash": ":sZmW\t»Ü\u001d%[\n½Î'íXÉý`ZiP\u001c¥OC\u0002ð",
+      "contains": [
+        "zip"
+      ]
+    },
+    "postdating": {
+      "hash": "y²AÝtÝ¾pëËwâì_8Dç\u0016ªá\u0000\u000fôlEn³3ñ",
+      "contains": [
+        "Len"
+      ]
+    },
+    "postmark": {
+      "hash": "@©ø^ö£gÊÇ,ing\u001b\u001d:J \u001c'ìåÇ\u0006¥çôÆ)",
+      "contains": [
+        "ING"
+      ]
+    },
+    "postpone": {
+      "hash": "³\u00010CUBSÙ\u0011Qã§ìµÄàî¦4íúç×£ß¿",
+      "contains": [
+        "cub"
+      ]
+    },
+    "powdered": {
+      "hash": "b*³a\"VTèChIÂ= ­»çÚÒ=úÂÑï\u001em",
+      "contains": [
+        "Chi",
+        "chi"
+      ]
+    },
+    "pragmatists": {
+      "hash": "N0ÒÐó¾·'\u0016[ãU/¢sÞ){\u0014!\f\u0006\u001b §ÎlIzë",
+      "contains": [
+        "Liz"
+      ]
+    },
+    "predestines": {
+      "hash": "ÆpÙäý?¥ÀTÇàa÷ÑsIrøà$\f'È\\E\u0012",
+      "contains": [
+        "sir"
+      ]
+    },
+    "prefabricated": {
+      "hash": "é!rpAln¢½ÕzqaÛ­úÁ\u0001\u0000¯¨bÿ\u00005.û·\u0002",
+      "contains": [
+        "pal"
+      ]
+    },
+    "prefectures": {
+      "hash": "a·¬º®æÀ WîkØoåArmÇ6\\Õm¨ï\"\u0019¶î­4²",
+      "contains": [
+        "arm"
+      ]
+    },
+    "preferential": {
+      "hash": "øèÀIø\u001a2utSTU\u0015¾ý#`\u0019ö\u0019ÆTõG·",
+      "contains": [
+        "Stu"
+      ]
+    },
+    "preparedness": {
+      "hash": "pê)À\u001c\u0005Z\u001fß¤ \u0010%ÊævÁtoW÷Ë[2ób¤ø\"Á",
+      "contains": [
+        "tow"
+      ]
+    },
+    "prevalence": {
+      "hash": "ÂE\u0016\u0014¡È)R¾0\u0014\u001dªJWÞÌ\u0010\u0011¤¸§SoB[j\u0018",
+      "contains": [
+        "sob"
+      ]
+    },
+    "primly": {
+      "hash": "6O\r&vRýæÂ\u0017\u001a¼4OUÚæöØô\u0012cOBYá%\u0012",
+      "contains": [
+        "cob"
+      ]
+    },
+    "proboscides": {
+      "hash": "Kàyy²\u0001\u000eÇ\u0007Õ¥\u0016G©lW×qUaÞ×N:Ë\u000e\u001e÷÷@",
+      "contains": [
+        "qua"
+      ]
+    },
+    "profiteers": {
+      "hash": "±gE\u0004LiOAtVcW\u000f.Û\u001e\nÍËq³²\u0014h¤/C\t»6",
+      "contains": [
+        "oat"
+      ]
+    },
+    "profundity": {
+      "hash": "\u001a]ADa\u0005Ü\u001f\u0018Óº\u0018þ|ÆJ\tPÅ\r(BH³»ÆøÍÓ)",
+      "contains": [
+        "Ada"
+      ]
+    },
+    "propitiate": {
+      "hash": "06/ÅÓÍ´»3ÙN`SUi-\u0006\u0011ßDûã¨\u001a/\u001d9",
+      "contains": [
+        "Sui"
+      ]
+    },
+    "protocols": {
+      "hash": "aq\u0015c:P ·bEGö¦Í1*qý)@£ý@\u0000Ø2¥",
+      "contains": [
+        "beg"
+      ]
+    },
+    "proton": {
+      "hash": "Fü\u000b\u0018Ç>²cÄ¡GeEç°d§øbïS|\"\u0002l&.¿",
+      "contains": [
+        "gee"
+      ]
+    },
+    "protractor": {
+      "hash": "¡ßÌCÄ\u000bÐ[\u0013\t¿º¶ÿ\u0010X*\b\u001ekoRy<Ðt*]$\u0011",
+      "contains": [
+        "Kory"
+      ]
+    },
+    "provisions": {
+      "hash": "Y!nant\u001colØppçKØªÏßÓ\u000f¥\u0006â3áyp\u000f",
+      "contains": [
+        "Nan"
+      ]
+    },
+    "pseudo": {
+      "hash": "à·\u0014¿4%¹\u0018à¨[tQ®]'kâ\rFÃ\rOOrRdp",
+      "contains": [
+        "Orr"
+      ]
+    },
+    "quandary": {
+      "hash": "ì \u0004«kNÇ®>.1wE0?¾Goaöæ\"½©ÝÞ",
+      "contains": [
+        "Goa"
+      ]
+    },
+    "quarrying": {
+      "hash": "À\u0010·êÚhEpÍXÀIS\u001aâP\r¨lmq\bo5%\u0000\u001d\u0010",
+      "contains": [
+        "hep"
+      ]
+    },
+    "rakish": {
+      "hash": "¿ú»2DøÏUnÑ\u0017\u001dg¤æqM\u0000ÿ)u7Õ¶IaNý*7PT",
+      "contains": [
+        "Ian"
+      ]
+    },
+    "ramifying": {
+      "hash": "Ûc{î§ÿù§BIì lIt\u0018\u0017Uò2¦©\u0018¸t×",
+      "contains": [
+        "lit"
+      ]
+    },
+    "ranger": {
+      "hash": "ÛÄ C'\u0017new´ÚFß\u0004VAP\u00059`ë¥ØÚÑ÷j",
+      "contains": [
+        "new"
+      ]
+    },
+    "ranker": {
+      "hash": "1\u000bÏW]¬àFaXáõ\u001c/iÖxUä \f°Ùi©àIE",
+      "contains": [
+        "fax"
+      ]
+    },
+    "razzing": {
+      "hash": "àoÊ\rìoÓ9hoW0IP¶¿6S\u0010¼ê\u0002HZ>öÐ\t",
+      "contains": [
+        "how"
+      ]
+    },
+    "reanimated": {
+      "hash": "4j(óD$Ì\u001cHot\u0018*C_\u0003yÓ~Æ´?,àm«q¶",
+      "contains": [
+        "hot"
+      ]
+    },
+    "recanted": {
+      "hash": "Y\u0007´Oxí\u0004ã*HÓzºlID_m¢èGÉnª]§DQú",
+      "contains": [
+        "lid"
+      ]
+    },
+    "recapture": {
+      "hash": "hÃáò¥ìÚ+(Ò=ãøø8z\u0006ÅåDIGþ¡øYÕ¸Æ",
+      "contains": [
+        "dig"
+      ]
+    },
+    "recited": {
+      "hash": "\u0012½<^Ú¥åì.5]AIr4ÐùÛÔt>»~{¨û#À",
+      "contains": [
+        "air"
+      ]
+    },
+    "reconnect": {
+      "hash": "fCgCB.þåv×¶¨SUe¯¯ØÄ¥ìYå",
+      "contains": [
+        "Sue",
+        "sue"
+      ]
+    },
+    "recuperated": {
+      "hash": "®<\u0018-LoPQ\u0018ë\u001b¢\bu4küZ£\u0013º\u001ay\u0018\n",
+      "contains": [
+        "lop"
+      ]
+    },
+    "redistricting": {
+      "hash": "\u001eÿó·÷JiMåÃ6¥¡ÞU3\u001et½*µÐ;¥¡p",
+      "contains": [
+        "Jim"
+      ]
+    },
+    "redoubling": {
+      "hash": "¨5z\u00124ÅgËÍb?®\\}Ú2ßëômUKIn;\u001fù¨ç",
+      "contains": [
+        "kin"
+      ]
+    },
+    "reestablishing": {
+      "hash": "}Ïº\u0006³¿4£*S\u0010~aHA^äQ\f£\u0007É\u0012î?Ú\u0007\u0003\u001e",
+      "contains": [
+        "aha"
+      ]
+    },
+    "referendums": {
+      "hash": "×\bimP©ß³pù\u0004@i\u0003¦m:[G\u001e\u001dF9qÙÊ",
+      "contains": [
+        "imp"
+      ]
+    },
+    "referring": {
+      "hash": "Þ«\u0003ÍC\u0006Ü\u00145É<îÒÔí°±>³¹Ó¦#ADZj3ì2£",
+      "contains": [
+        "adz"
+      ]
+    },
+    "regressions": {
+      "hash": "®HAceËA-gkóp¦\u001ao%ëÄ`Ü}ÑøàiÆ\u001d^",
+      "contains": [
+        "ace"
+      ]
+    },
+    "rehired": {
+      "hash": "²ÙXë\u0012Jæ\u0013ê%5sHISâ;Æ\b\f2ÁF!é2lÔ!",
+      "contains": [
+        "his"
+      ]
+    },
+    "reined": {
+      "hash": " \u000ef\u0011nt\u0015W\u0001\u0001¡Çê5\u000e\u0000\u0002¯X¿ £\u000fPeG\u0015ÙI",
+      "contains": [
+        "Peg",
+        "peg"
+      ]
+    },
+    "remorselessly": {
+      "hash": "\u0015È\u0003ÒàHUN\n§ä¯\u0015ôr2Í±®¢k{Öz\u0019Ù°-¡",
+      "contains": [
+        "Hun"
+      ]
+    },
+    "residents": {
+      "hash": "P(b)CÌõF`½}UZO|b#ÑM#±V[z/qóYhaD",
+      "contains": [
+        "had"
+      ]
+    },
+    "resistant": {
+      "hash": "Ãýc`çwö\rLÆ\u001dº=Ø\n\u001e0oNO=§ Üx\u000f².",
+      "contains": [
+        "Ono"
+      ]
+    },
+    "restaurants": {
+      "hash": "\r½Äû\u000f»\u0019\u001b5ºX {ZeDf³8ÀBè\t\t½",
+      "contains": [
+        "zed"
+      ]
+    },
+    "resurrection": {
+      "hash": "ª\u000f·¦ÌPI\tÏåa!t¿AdIn/\r¬þø½¨#",
+      "contains": [
+        "din"
+      ]
+    },
+    "retard": {
+      "hash": "\u0015i©sy\"vï®\u0014\u0013Nmd¥4wÀÁ\u0011AMY",
+      "contains": [
+        "Amy"
+      ]
+    },
+    "retinue": {
+      "hash": "\\¸\u0016f{ÏÔÔ¹j\u001c\u0016çó\u001açsÃÞé± à&NubØ1",
+      "contains": [
+        "nub"
+      ]
+    },
+    "retrench": {
+      "hash": "äô4R\u001c}Áu¡+D¶»\u0006LÓSir6\u0011ò×¬Ø\tx'",
+      "contains": [
+        "sir"
+      ]
+    },
+    "reverent": {
+      "hash": "9Rû8Ä»bb.\u0000\u0001Å9ÎDWD_*r\u0012InHIE\u0010\u0002-",
+      "contains": [
+        "hie"
+      ]
+    },
+    "revisits": {
+      "hash": "B\u000f6R_ògl7H \u0010SOW:Ôm¼±\u001fÜö2÷îÉ¯^",
+      "contains": [
+        "sow"
+      ]
+    },
+    "rhino": {
+      "hash": "-]n¦\u0004ýyB\u0007¼dOn+çìeîàC´\\/j¥)@hy",
+      "contains": [
+        "Don",
+        "don"
+      ]
+    },
+    "ripely": {
+      "hash": "¹ûTJj¥66üpYX±,Ö\u0017Z\u001f¯ß&³\u0006\r\u0006Ô\u000e",
+      "contains": [
+        "pyx"
+      ]
+    },
+    "roadshow": {
+      "hash": "\u0012K\u0014ïÿR*7iLaäe?A_¶\u000f´ó$\u0012Þùh¾\u001d\n",
+      "contains": [
+        "Ila"
+      ]
+    },
+    "robins": {
+      "hash": "ÁLEf\u0011|r4\u0003\b§Ý¸%Â>d>­p¢½\u0019O*ian\u0018\u000f",
+      "contains": [
+        "Ian"
+      ]
+    },
+    "romanticize": {
+      "hash": "3Ì0´¤\u0007gtEO\u0013!=g³Nbí6\u001cjÎÑ´",
+      "contains": [
+        "GTE"
+      ]
+    },
+    "rowboats": {
+      "hash": "0@\u0000saX° \u001apù6Ú7{i)¼[Õ ,P\u001bÛ\u0006\u0018c'sÚ",
+      "contains": [
+        "sax"
+      ]
+    },
+    "rustled": {
+      "hash": "Âö¿\u000e»\f|¤ \n\u001arÃK\u001aëú¶ôtOE\u0007Hbèbî",
+      "contains": [
+        "toe"
+      ]
+    },
+    "salesperson": {
+      "hash": "qaæ\u0001õy}!§õÑ¾D\u0015=¥jm'Z¹m\u0011\tq\u0004LaY",
+      "contains": [
+        "lay"
+      ]
+    },
+    "sarcophaguses": {
+      "hash": "\nÖ°t¯@*I\u0006#»\b¿IÇiLl<çYÐ\u0016»Å\u0017×",
+      "contains": [
+        "ill"
+      ]
+    },
+    "sashaying": {
+      "hash": "·,\u0010\\[íJ\u0017×máÄwrYWØvñ²zlm\n×þn",
+      "contains": [
+        "wry"
+      ]
+    },
+    "satinwood": {
+      "hash": "³~¿U¨ëå¤\u000bK´ö\u001aÏÙÓ©\u001dEYE-Å¼\n§\u000f",
+      "contains": [
+        "eye"
+      ]
+    },
+    "sautés": {
+      "hash": "\u001a%\u0010\u0012+JYy·Qf×M\u001a¤6^ËäW\nÛlMOPÏ",
+      "contains": [
+        "mop"
+      ]
+    },
+    "scampi": {
+      "hash": "gzÔFè})(¤bmatû¹\u0002MómøJÙÍk\u001fè§l",
+      "contains": [
+        "mat"
+      ]
+    },
+    "schmuck": {
+      "hash": "\u0005\u0005J&`qLXMÆr)Ô0æð,TOy³\u001c\u0000,¿\u001e!\b",
+      "contains": [
+        "toy"
+      ]
+    },
+    "schoolchild": {
+      "hash": "X#\u0012<ø¬§?]×gzGUTg*B mÊ»ó5¬7\u0017",
+      "contains": [
+        "gut"
+      ]
+    },
+    "schoolmates": {
+      "hash": "ÕÂíçÑ¬\n]ëÕeWigÁAb83cðÿ¬ø\u0012\u0015\u0007£-",
+      "contains": [
+        "wig"
+      ]
+    },
+    "scraping": {
+      "hash": "bliTc|ô¶Ù\u0016¾@,«ã¸;~ñ»\u0006Å¤$Økyàª\"",
+      "contains": [
+        "lit"
+      ]
+    },
+    "scything": {
+      "hash": "|Ñ\u0007Q\u0000È_ü¤«rAmèÕm\u001erËUø\u000b[Í\u0011\u0002E\u001bQ",
+      "contains": [
+        "ram"
+      ]
+    },
+    "seaboard": {
+      "hash": "ñ\u000bâøÊ#©Õ\u001c®\u0015 üµD\b´­K7×eCOBØe#*",
+      "contains": [
+        "Eco",
+        "cob"
+      ]
+    },
+    "searing": {
+      "hash": "hug9'q>S;³@V\bhoþ9=èq(þ×¤",
+      "contains": [
+        "hug"
+      ]
+    },
+    "securities": {
+      "hash": "Yü!Bò.Úginó2\u0016=Ut/F½ý¢\u0016éñÀ¼",
+      "contains": [
+        "gin"
+      ]
+    },
+    "segments": {
+      "hash": "\býÛÈ==ãF°fÀ+Þè §WBÍÂ<\u000bpaRÆúÎ½",
+      "contains": [
+        "par"
+      ]
+    },
+    "seismologists": {
+      "hash": ")ó£\u001eOý¦Ö fop\u001fu¶c\br¨5GÃ¾èpCú@Ñª",
+      "contains": [
+        "fop"
+      ]
+    },
+    "semifinalist": {
+      "hash": "H½¥ä~!Þ^\u00118íbAH\u001fR'B@Eù3 M\u001dW",
+      "contains": [
+        "bah"
+      ]
+    },
+    "sender": {
+      "hash": "\n6{Ï\u000b\u0003}ý\u000eè2ÕoÁQh\u001b´\u001eSi\u000ewoW",
+      "contains": [
+        "wow"
+      ]
+    },
+    "sententious": {
+      "hash": "pnÃGEOGG¨C[eG×(uLEG\u0017\u0018Eø×Jn¤",
+      "contains": [
+        "leg"
+      ]
+    },
+    "separatists": {
+      "hash": "qÍB\u001c©óµ\u0004Cà\u0005&Ã\u001a&F Å¨i'íhun'u\u0010È",
+      "contains": [
+        "Hun"
+      ]
+    },
+    "seraphim": {
+      "hash": "a<MuG¨¯:èë*·] ¢ÁêD\u00053´P\u001fo&òówµÄ",
+      "contains": [
+        "mug"
+      ]
+    },
+    "sews": {
+      "hash": "É\u001b<:alTûf×Ø.dA¹JoG3ÐÂ\u001bq",
+      "contains": [
+        "jog"
+      ]
+    },
+    "sexing": {
+      "hash": "F\u0003%ÎdUB\bÈi³X\u000bÓñß1N£nA!E¯Xóÿ4*",
+      "contains": [
+        "dub"
+      ]
+    },
+    "shadowboxes": {
+      "hash": "Ì\u0010þ<©4alQ\u001f\u0018~ÆFóßÏ\u0010ß°nOh\u0011¸ë0w¿Ãé",
+      "contains": [
+        "Noh"
+      ]
+    },
+    "shaky": {
+      "hash": "À:JÞø@WN;´\"L\\óK\u001cÚê\u0011Sîríhow",
+      "contains": [
+        "how"
+      ]
+    },
+    "shame": {
+      "hash": "¿\u0019óaPT°V\u000fÊE\b[\u0016û÷^\fÂ\u0013R\u0007\u001f¢êÛ¾[Ïµ",
+      "contains": [
+        "apt"
+      ]
+    },
+    "shanghaied": {
+      "hash": "\u0016ÜÔ,Ëç,\u000fe\u0011³þ@O­\u001dT¨6\u0011¯ßy¡bId½",
+      "contains": [
+        "bid"
+      ]
+    },
+    "shareholder": {
+      "hash": "Q©¦\u0013{\u001d=IäD¿æP\"*P²À?RB8tIROR¢qé",
+      "contains": [
+        "tiro"
+      ]
+    },
+    "shipmate": {
+      "hash": "sAP²ð\u001dcAIN¯C_ÆÒ\u00075«\u0014÷¶¡EUln",
+      "contains": [
+        "Cain",
+        "SAP",
+        "sap"
+      ]
+    },
+    "shirtwaists": {
+      "hash": "h¾%¶\u000eÆÅÈÒü\u001e;siT¶Õ\tív³þLö&¥",
+      "contains": [
+        "sit"
+      ]
+    },
+    "shook": {
+      "hash": "\\öS;á­µ%;\u0007n\u0017ïÁ+çVAn ¹ý¶\bªjx\u0013\u0016",
+      "contains": [
+        "Van",
+        "van"
+      ]
+    },
+    "shortage": {
+      "hash": "w×\u0016âS+ä´ÈJÎ§\u0012ÜfEbLT\u000f@4«½§\u0004ô\u001c",
+      "contains": [
+        "Feb"
+      ]
+    },
+    "shrike": {
+      "hash": "\u0006\u0001¥ï¸K=WÆÝü=´kåpúLPeg[êØm",
+      "contains": [
+        "Peg",
+        "peg"
+      ]
+    },
+    "shuffled": {
+      "hash": "k\u001fyåIwôÞ\u0006boOæäsÎQ( ·¨)\u0010®é²~ªQºmc",
+      "contains": [
+        "boo"
+      ]
+    },
+    "shush": {
+      "hash": "Nit²\u001b/¤nâ\n\"ññkº|Ð7qd½I\u0012¹%T\u0011",
+      "contains": [
+        "nit"
+      ]
+    },
+    "shyest": {
+      "hash": "\u001e\u0001Á4Yá+sOPÁÝRöWäJ\u0003Ü×\u001a¾\u0003îýbf.Å^",
+      "contains": [
+        "sop"
+      ]
+    },
+    "silkier": {
+      "hash": "|M4Òµour@±\u0016\u001a¦S\u0010\u0007nRe¢Ò\u0000!zþÑäx",
+      "contains": [
+        "our"
+      ]
+    },
+    "silting": {
+      "hash": "\u001fgaP\\U\u000e_{l\u0013p!¶ÉN\u001b9$\u0016_¼ê\bá°7",
+      "contains": [
+        "Gap",
+        "gap"
+      ]
+    },
+    "singes": {
+      "hash": "E!rObÉ\u0005Ê\u0003a\u0000g;Oè3w Ëb÷­e+Â\u001d",
+      "contains": [
+        "Rob",
+        "rob"
+      ]
+    },
+    "sips": {
+      "hash": "ëL(dOE¾ý½¸>\u0006Gü¼ï%á!\u000eÎ)¢ñU",
+      "contains": [
+        "Doe",
+        "doe"
+      ]
+    },
+    "skated": {
+      "hash": "f\u0007¸×\f=³e6s¡Tiaà\u001d¼\u00058Ç#¾G\u0017»3=",
+      "contains": [
+        "Tia"
+      ]
+    },
+    "skeptics": {
+      "hash": "ókj\\Kºß \u0002\u0013HV¸\u0015ºcaDS\u000fæø\u0004ãü+@þôÌ",
+      "contains": [
+        "ads",
+        "cad",
+        "cads"
+      ]
+    },
+    "skywards": {
+      "hash": " ÖL×èhIMZC&Ø¢A·k- f}cáZ 4DÕY*a",
+      "contains": [
+        "him"
+      ]
+    },
+    "sleep": {
+      "hash": "\nú[µÕñxyEåUé\u0014tg[ëo4ÝI\u0004#ÄÐF\u000eMEH",
+      "contains": [
+        "meh"
+      ]
+    },
+    "smirked": {
+      "hash": "TJAnUª7\"®c0#ËMÅÃþ\u001d¯PàFM0vS:(Ä",
+      "contains": [
+        "Jan"
+      ]
+    },
+    "sneakers": {
+      "hash": "Ç<$9eyaW\bsêCôê³×\u0014;ðµ¦²çÜ\u001fD@³Z¤",
+      "contains": [
+        "yaw"
+      ]
+    },
+    "snowdrift": {
+      "hash": "1V?ÔíÎHò{\u0017k\u0001ý[4í-\"¼RIG+\r\u000e",
+      "contains": [
+        "rig"
+      ]
+    },
+    "sociability": {
+      "hash": "+ì\u0003C\u0011©bW-ý3â¹\fäsADïÍ\u0017ä~&É\u001f\tè]",
+      "contains": [
+        "sad"
+      ]
+    },
+    "solutions": {
+      "hash": "#ü\u001eI\u0017s\u0012s4\rfYHU¼Ì;ÁKTanÆNÕJ\u0005ßR",
+      "contains": [
+        "tan"
+      ]
+    },
+    "sombrero": {
+      "hash": "¡ï\\Æ\u0005ÓÔÇì0b*iCEêû K\u0015vy^Üv²,",
+      "contains": [
+        "ice"
+      ]
+    },
+    "sonnies": {
+      "hash": "Ö¬Y¿°È¶ìÂ=u\u0001(¤úïá2ÚHugá\"\u0001G®",
+      "contains": [
+        "hug"
+      ]
+    },
+    "sort": {
+      "hash": "did?Ò'\u0011Ûâõ~\u00028I\u001c\u0002ÆØÎvòZâ@GB",
+      "contains": [
+        "did"
+      ]
+    },
+    "soundly": {
+      "hash": "\u0002çªZY\u0016Ö\u001a¶ë22ÏVÖ\bÙÇATE'r",
+      "contains": [
+        "ate"
+      ]
+    },
+    "spaceman": {
+      "hash": "º\u0019Ò)j­\u000ep\u0013Ù.PYWig\u0016®åÈ\u0001,\u0006ýú^3àhA",
+      "contains": [
+        "wig"
+      ]
+    },
+    "sparring": {
+      "hash": "\u001bW·d§ÇlOxCg±ï«0\u0003Ï\\6¨mH¢'a3÷ÏxhC",
+      "contains": [
+        "lox"
+      ]
+    },
+    "spars": {
+      "hash": "ÞÁQñ\u000bèF¾!HahÒÚ¼\u0005Ì\u000exÅ¾¥?uØ",
+      "contains": [
+        "hah"
+      ]
+    },
+    "spay": {
+      "hash": "\u0003oéïè\u0015è\b8~gÈûîiì¨Ø6Û¦ámOR\u0006Òkeri",
+      "contains": [
+        "Keri"
+      ]
+    },
+    "spectroscopes": {
+      "hash": "¼²*·½íQ)¿4ÐþwVygap=¹ÚLóÜ~uC}",
+      "contains": [
+        "Gap",
+        "gap"
+      ]
+    },
+    "splatters": {
+      "hash": "[¦haMZ,-ª'êXºô²Ýy§âi/\u001471II\u0013íg",
+      "contains": [
+        "Ham",
+        "ham"
+      ]
+    },
+    "spotlessness": {
+      "hash": "1î_»\u0010cú±\tgPnIx:|ÁÒ/æCm\u0018\bõ¨h6",
+      "contains": [
+        "nix"
+      ]
+    },
+    "sprawling": {
+      "hash": "\u000eDW\r~(±Ì2¢Jªk\u000bë¤19DcRïJOg/\"",
+      "contains": [
+        "jog"
+      ]
+    },
+    "springtime": {
+      "hash": "%ZJn'âlEIxçnÞ-NG\u0015êÂmK\u0015\u0010Ü\u0000Fgì$",
+      "contains": [
+        "lei"
+      ]
+    },
+    "squarely": {
+      "hash": "åï\u001bGUm¹ñÙã\u0003kntôkQ¼\nc\u0005øÒÐ\u001dó±÷",
+      "contains": [
+        "gum"
+      ]
+    },
+    "stables": {
+      "hash": "\u001aÁ¥YQþßæ_ê\u0000Îöá@Â0fV\u0007RxHotÃ\fFU",
+      "contains": [
+        "hot"
+      ]
+    },
+    "stalactite": {
+      "hash": ".w\u000b°²é\u0004È1ËS±ðlEaî¼\tÖáÈûTÝÛË3",
+      "contains": [
+        "Lea",
+        "lea"
+      ]
+    },
+    "stardom": {
+      "hash": "yíËV#ÛØ5LEGÄÙKÂ1Ò\u001coôvDªUìXÌDHk",
+      "contains": [
+        "leg"
+      ]
+    },
+    "steadiness": {
+      "hash": "@°¡4kðcaw*\u00110ø¯\r>ücD:IÐûéaÆ>",
+      "contains": [
+        "caw"
+      ]
+    },
+    "stepdads": {
+      "hash": "jóm þy@ÙÇ\u0002íÌu2$<ÍÚvóseT]íÙ\u0012±1Ó",
+      "contains": [
+        "Set",
+        "set"
+      ]
+    },
+    "stormier": {
+      "hash": "\rMUGg¼áS|ær\"ÏµhÎø50ÑúI7Ëì\u0015\"¡¢!",
+      "contains": [
+        "mug"
+      ]
+    },
+    "strains": {
+      "hash": "Kß SkøECo\u0016>\u0007\u0010­RFÅu«qÁ+!fæ",
+      "contains": [
+        "Eco"
+      ]
+    },
+    "strangeness": {
+      "hash": "^ìE\f Y·´TaRâp>fîÔ»æ¯G\rKiàä§\u0004",
+      "contains": [
+        "tar"
+      ]
+    },
+    "stratagem": {
+      "hash": "P\"åTA!\u0011WAD\u000bMkãücOgy\u001af\u0003ºÛ±ú­",
+      "contains": [
+        "cog",
+        "wad"
+      ]
+    },
+    "stratagems": {
+      "hash": "@Bg¿4¿aï(\teYeÝ\u00076ýç\u0014Ê49¤ÒÑ\u0007",
+      "contains": [
+        "eye"
+      ]
+    },
+    "strikers": {
+      "hash": "=b\u0014\u001b±Y?4<¦\u0001°Qg[?\beMes$Ghwä\u001f4P",
+      "contains": [
+        "mes"
+      ]
+    },
+    "stroked": {
+      "hash": "\u00158\\m¹hA©ÞwItË{\u001aãîñ\u0019áÁ2Ö >IÖÔ/¬è",
+      "contains": [
+        "wit"
+      ]
+    },
+    "student": {
+      "hash": "&L8\u001bñl*NY°ÝLox\bÅ\u001a\u0005öL5ÛBÌx¢§(u»",
+      "contains": [
+        "lox"
+      ]
+    },
+    "stupid": {
+      "hash": "ÂÒ\u0014¤éÔM4ÀÂlÊ'³M\u000eÊu]}sATïÇïY$%",
+      "contains": [
+        "sat"
+      ]
+    },
+    "stymied": {
+      "hash": "\u0019ÐÜ\u0017¤Z\u0011KDDiDAOÖi¦Ö è¯é\u0013\u001fRå>O6",
+      "contains": [
+        "did"
+      ]
+    },
+    "sublimating": {
+      "hash": "[¡woO{âNü2HÅ\nßwîµ\u0003\u0003\u000eAiêñ\u0006ÿRÀä",
+      "contains": [
+        "woo"
+      ]
+    },
+    "subtotal": {
+      "hash": "ÖW~ïºCoxþn\b2~\u000fy÷µÜ\u0015ðlý\u0002Êõ",
+      "contains": [
+        "Cox",
+        "cox"
+      ]
+    },
+    "supers": {
+      "hash": "î¬Ã \u0004Â\u0017¢\n´~ÍvàÓ³ëq4nowY\u001dÂ²nøæÐ<",
+      "contains": [
+        "now"
+      ]
+    },
+    "supportable": {
+      "hash": "Rú+¿5\u001c\u0005LM/Ü^øßdÜÜ\u0014HeXZÎýÀ{:",
+      "contains": [
+        "hex"
+      ]
+    },
+    "surcharges": {
+      "hash": "ÎPUTß-@\u0018Î¡º¼ú7ËIãß%FUîOO¯\\_3\u0005}",
+      "contains": [
+        "put"
+      ]
+    },
+    "surmounting": {
+      "hash": "¼É\u001dí©%\u0019ö>u%ºf\u0014VÂ¤fUR;\u0006.\u0001ß=Pæ",
+      "contains": [
+        "fur"
+      ]
+    },
+    "swamis": {
+      "hash": "®8M/¦Íál\r>Ð\u0016ûEÉæCoGÐY©¢\u001eE|?",
+      "contains": [
+        "cog"
+      ]
+    },
+    "swanker": {
+      "hash": "coO:Ôèæä\u0007%³?þTíè\u001fb\u001a\\ÈáÌÃl$[\u001fÊ¡",
+      "contains": [
+        "coo"
+      ]
+    },
+    "swankier": {
+      "hash": "98:¥É©¬$}Ö:f¶{\"ÎB¤;AiMï2DÉþGÚh",
+      "contains": [
+        "aim"
+      ]
+    },
+    "swashing": {
+      "hash": "OVAdT?\u000eÈö[\u001b\u0011%âp¢ójâÚõÛ³ïlkÏ-",
+      "contains": [
+        "ova"
+      ]
+    },
+    "sweetbriers": {
+      "hash": "q\u0015CÉÌäLyx\u0017wþj-µ\u00048íBÇJ4núÓ`(ªØå",
+      "contains": [
+        "LyX"
+      ]
+    },
+    "swilling": {
+      "hash": "#CP^ÝÏg¯ô5\f¸@tOtÞOKö§7º2Ãp\u001c½¾",
+      "contains": [
+        "tot"
+      ]
+    },
+    "synod": {
+      "hash": "qi NÙn1úRÑ ùìMì\t¯\u001c5©Z\u0011t`WEVet",
+      "contains": [
+        "vet"
+      ]
+    },
+    "takeout": {
+      "hash": "?|·¾÷oraj½á)ÿB¿qÖ3Â\u0018?âÝîáÉÚ",
+      "contains": [
+        "Ora"
+      ]
+    },
+    "tantalized": {
+      "hash": "\u001c13@­E\u0017S8\u0000\u000f×1Ýªà?Ý×x/zKfCÐ0³w£¬",
+      "contains": [
+        "KFC"
+      ]
+    },
+    "tape": {
+      "hash": "¤ì}cOyNÂ`gXvA\\'ÍFãp]_ý¡G¦]¹áZ\u0012",
+      "contains": [
+        "Coy",
+        "coy"
+      ]
+    },
+    "tartest": {
+      "hash": "6íù¨P<å<N-q¸Û\u0005\u0019\u001c{1qTlIDõ]\u001c",
+      "contains": [
+        "lid"
+      ]
+    },
+    "tasers": {
+      "hash": "å<oDT¹G4y)TcYÕ\t8CnaUgm±7sdq",
+      "contains": [
+        "Aug"
+      ]
+    },
+    "teacup": {
+      "hash": "A\u0018$º\u0004ex&*ê\u0011\u000burNÓLËí\u000b\\V§­\u001d\u000f\u001c",
+      "contains": [
+        "urn"
+      ]
+    },
+    "teared": {
+      "hash": "\u0000\u0003ýªELL.ck'/Ì\u001b5}\u0015À\u0005nh=,\"6ë",
+      "contains": [
+        "ell"
+      ]
+    },
+    "telltale": {
+      "hash": "VBÛ/\u0000QðÌ;\u0007È?¬\tM3heM¾¼ÇA]ÈÔ­ÿ¢ï",
+      "contains": [
+        "hem"
+      ]
+    },
+    "temperate": {
+      "hash": " õ+\u0010kß4Q¾\u0003¬ÄAÓ`¶±N\u0005wetS\u0011U<©Î&Jr",
+      "contains": [
+        "wet",
+        "wets"
+      ]
+    },
+    "temping": {
+      "hash": "paw\u0001Ô9ìÚu¸\u0015>Õµm ì_\u001eüÃT\\\nÉpÑ0KO",
+      "contains": [
+        "paw"
+      ]
+    },
+    "terminally": {
+      "hash": "FopOp¡\bhÖ¦\u0015gÊ!/×!éxSZ%ÿ\u0011îº¾HG",
+      "contains": [
+        "fop",
+        "pop"
+      ]
+    },
+    "terrifying": {
+      "hash": "yÍ-EELþ*Óh¯ \tê\u0016$äÔ\u000f\u0016+\u0012®á\u000fâ\u001aõ\u0012e¤E",
+      "contains": [
+        "eel"
+      ]
+    },
+    "thaws": {
+      "hash": "!¨YDÝµ'É\u0006TÔûh\u001dKænUB3(W:ù!D",
+      "contains": [
+        "nub"
+      ]
+    },
+    "thinker": {
+      "hash": "ë·2kÐçÌaIMÜNµiÖîfQ_¯ªÞùe¦Ï\n\u0006",
+      "contains": [
+        "aim"
+      ]
+    },
+    "threaten": {
+      "hash": "uí\u000eù6PaWÕðFð½¿2íðño¾4úã×OÏÈ=",
+      "contains": [
+        "paw"
+      ]
+    },
+    "threescores": {
+      "hash": "¶\tYfÌícwÊ\få+£ERE<%l>$Ñ&±g²",
+      "contains": [
+        "ere"
+      ]
+    },
+    "thwacked": {
+      "hash": "ÎzsJIbv¬\u000e½ËY`\u0019á\u000f±>\u000bèÏ$àJæÖw4E",
+      "contains": [
+        "jib"
+      ]
+    },
+    "tilting": {
+      "hash": "mÎtREKÓ1Î×&YÃ:ªÏñÑ\u0013áÆF\u0012\u001cIÐYg",
+      "contains": [
+        "trek"
+      ]
+    },
+    "time": {
+      "hash": "3`t_ÈSz¾oã­¦¦ó\u0007z\u00169\u001fìtOg\u001a\u0001_½~",
+      "contains": [
+        "tog"
+      ]
+    },
+    "timeless": {
+      "hash": ".ïu6,]\b£\u0013ÞßqatEÃ\u0019iô\u0005­-UM§:Öü_ã'",
+      "contains": [
+        "ate"
+      ]
+    },
+    "tinsel": {
+      "hash": ":§Nub4«\u0012¾Ý\u000e\u0000¡%²\u000e\u0004NMâ\u001dã_Â\u0019ëæÌ\t",
+      "contains": [
+        "nub"
+      ]
+    },
+    "topmast": {
+      "hash": "`_z§\u0007¿9\u001b½áñÃcUTE\"oPR\u0002þÚ²ZN¹¦¦",
+      "contains": [
+        "Ute",
+        "cut",
+        "cute"
+      ]
+    },
+    "tourist": {
+      "hash": "µQØ©Ç\u0010à92,o«â.U¹\u0000p~ÏTØÑ^Z dUH",
+      "contains": [
+        "duh"
+      ]
+    },
+    "toxins": {
+      "hash": "tÄté0`þd9k`üÿ\u0000LOg¦~\u001c\f\u0015\u0011Ë²\r\u0011",
+      "contains": [
+        "log"
+      ]
+    },
+    "translator": {
+      "hash": "5±\u000f\u0005nÍ\t7\u0004ýßoòdIP\u0010\b¶Ü\u001fàödëÚ",
+      "contains": [
+        "dip"
+      ]
+    },
+    "trapezoids": {
+      "hash": ",Û®+à3ããIC\u0016\u0006|ÛÐ¬`úÁUVÇ\u001d>Î3banm",
+      "contains": [
+        "ban"
+      ]
+    },
+    "treeless": {
+      "hash": "·72\u0012òµfDÝCUnT­Ü\u0003Óø\u0011Þ¶û|#>>l",
+      "contains": [
+        "cunt"
+      ]
+    },
+    "trenching": {
+      "hash": "U\u001a\u0012QPãOÒ-$^pÏÉñ\u000büë*lapKd%È\"Âë",
+      "contains": [
+        "lap"
+      ]
+    },
+    "trimarans": {
+      "hash": "qLx.ý\u0018Î\u0013\u0005\nââ\u001e(êlOTõj)FDª8ý",
+      "contains": [
+        "Lot",
+        "lot"
+      ]
+    },
+    "trouped": {
+      "hash": "`5üHE\u0018\u0013ükqæßÇ-·ËQû,?\u001fiRMA¡á",
+      "contains": [
+        "Irma"
+      ]
+    },
+    "trustworthiness": {
+      "hash": "ronáâYè\u0000u5É7ÕÜ®Z³*ï»ë»»úp(Ú<vÏF",
+      "contains": [
+        "Ron"
+      ]
+    },
+    "tunneled": {
+      "hash": "¿ýúã(ZJobË9\u001dh1Ê\u0016\"\u0002¥\u001bêW@z\u0004·ý",
+      "contains": [
+        "Job",
+        "job"
+      ]
+    },
+    "turnout": {
+      "hash": "àÚ+ªfMOmq sa Øì\u0016¡[\b\u0001sq\râ\u0005Q ",
+      "contains": [
+        "mom"
+      ]
+    },
+    "typewritten": {
+      "hash": "Fðg<\u0014öí+Zå-Ø³¹·ÿ¿|töJ»pUN°ù}",
+      "contains": [
+        "pun"
+      ]
+    },
+    "uncontrollable": {
+      "hash": "sxùÆ\u000b;í¾ÄØDUo*1D·HÛ\u00178Ná\f{/",
+      "contains": [
+        "duo"
+      ]
+    },
+    "undercarriages": {
+      "hash": "\f%yOIl_ì\u000e\u0002¼&\u0017[r\u0006½¦ÏÛ^\u000eÇD¥S(^í`",
+      "contains": [
+        "oil"
+      ]
+    },
+    "underskirts": {
+      "hash": "ùÉ\u0019¨ÊÈþç½¯,\u000bAmDÏc\u0005ËÖ'g¼Nõµ ú",
+      "contains": [
+        "AMD"
+      ]
+    },
+    "understandings": {
+      "hash": "JUtwÊc(ÙA°t²\u001f2}ûî´·S®p\u0017\u00194¸b\u0010/",
+      "contains": [
+        "jut"
+      ]
+    },
+    "undertaking": {
+      "hash": "Î\\SÜ©·[§â`tun Òj\t¤¾?åá\u0006Z\n@\u0007",
+      "contains": [
+        "tun"
+      ]
+    },
+    "undertakings": {
+      "hash": "Øz¤D\u001d\u0003¿\u0019U\u0012\u001cÁÚDÔÐ×§ø\u001fGaDZ÷ÂÍ>â",
+      "contains": [
+        "adz",
+        "gad"
+      ]
+    },
+    "unexplored": {
+      "hash": "ÂËFðäWbäÍÛÑÎÊ\u0000.L\u0000W3{*\u0004Ù¯\reELu«_",
+      "contains": [
+        "eel"
+      ]
+    },
+    "unfolds": {
+      "hash": "Uà\u0006®S°\\\u001bÝ&Cow\u0004ðëJÐð2×%\u001b¾Ý]R%d©",
+      "contains": [
+        "cow"
+      ]
+    },
+    "ungainlier": {
+      "hash": "/Qé\u001d¼\f¹Ò\u001fß£çÆä\u0005\u0000rUGî\u001aGÔW$,\u0005VS\u0012e",
+      "contains": [
+        "rug"
+      ]
+    },
+    "unhanded": {
+      "hash": "K|Ô óüûÔú,Wsù]ùÑ\nbuM0\u001b\u0011Ù£ë¯",
+      "contains": [
+        "bum"
+      ]
+    },
+    "unhesitating": {
+      "hash": "\u0016té×[;©FagÆ\u0010í\u001cë\nNxïBSùè¬vj",
+      "contains": [
+        "fag"
+      ]
+    },
+    "unifies": {
+      "hash": "u¯Ç&H£F«ö;~sfEe2¶/@'{ß³ë9Æ»ËÐ",
+      "contains": [
+        "fee"
+      ]
+    },
+    "unlikelier": {
+      "hash": "nit¨7ÞG;\u0007NÝ4ï¹\u000bHx\u001aq\u0003\u00052ü\u001fVÐó",
+      "contains": [
+        "nit"
+      ]
+    },
+    "unscathed": {
+      "hash": "ÖúÉ|µê×Êtè®ãé\n$8Z\u000f¸¹\u001f}¡New",
+      "contains": [
+        "new"
+      ]
+    },
+    "unsnapping": {
+      "hash": "r óÌmiA\u001fìÁp¶.;\u0013\rîïñAêôµE.ì½\u0017Âµ",
+      "contains": [
+        "Mia"
+      ]
+    },
+    "untangle": {
+      "hash": "ñ\u001c\\\u0019X>ãÿ\rw6:êÜB{zÚg¥\u00028HEw",
+      "contains": [
+        "hew"
+      ]
+    },
+    "untangling": {
+      "hash": "VíÙä:\u000fõÊ(jÕaØ\nQûÍ\u001d?ërÂIÓ\basS\u0017",
+      "contains": [
+        "ass"
+      ]
+    },
+    "untimeliness": {
+      "hash": "\nËä¸»\\\u0019Íì7BAg\u0012ÍøÂ0Ø\u0007\u000fF5­sæÿ",
+      "contains": [
+        "bag"
+      ]
+    },
+    "upstaging": {
+      "hash": "¡e'.Ò FJFnsa]Ö\u001cu.(\u00173g['¹ìÄR±Ú",
+      "contains": [
+        "NSA"
+      ]
+    },
+    "upstarted": {
+      "hash": "ñ\u0011èrî[ËÍù­3®å\\Ô©M1\u001e¤\u0019SIsù\u001bwpèÀ",
+      "contains": [
+        "sis"
+      ]
+    },
+    "vacuumed": {
+      "hash": "&Akß%¸MAwxþ\u0003¦B\u001fâ\r7ok¾\u0019æ?>×{y¥",
+      "contains": [
+        "maw"
+      ]
+    },
+    "validated": {
+      "hash": "ãä®ÃsrBan\u000b=Ó¦Çê¯?ä'FÞr\tèÚèÛ3WÍ",
+      "contains": [
+        "ban"
+      ]
+    },
+    "venial": {
+      "hash": "­*\u0004Gß¢¢üª\u0007k[RAgÿ\u0017wC×7áð\u0002ô\u001au\u0000r",
+      "contains": [
+        "rag"
+      ]
+    },
+    "vertebrate": {
+      "hash": "\u0006áGØSAP%Wn¯«5\u0017ðþy¦'.?¬á IZO\u0010í",
+      "contains": [
+        "SAP",
+        "sap"
+      ]
+    },
+    "views": {
+      "hash": "t6\u0014ÄÇ\u0012¾¼Eï£Z8\u001bñ1AntòP\frE\nÓB",
+      "contains": [
+        "ant"
+      ]
+    },
+    "virginity": {
+      "hash": "\u001aæ&SÖ%ÀLþÝò\u0003 \u0000:\u0006TòUäK^pÓfLAy",
+      "contains": [
+        "flay",
+        "lay"
+      ]
+    },
+    "vogue": {
+      "hash": "\rU;ÈWINöÖÿ³«\bªäu_\u0012ÊRYt\u0000Ø3*&¨±ã\u0005",
+      "contains": [
+        "win"
+      ]
+    },
+    "void": {
+      "hash": "D[åMH¢æ)CiÈLaÍ\t) N\u0010SaY½÷\u0000+Ýþ\tK",
+      "contains": [
+        "say"
+      ]
+    },
+    "wackier": {
+      "hash": "XÈ\u0010ÁT+eöLoÉ]Ó3WeDZÅ-'\u000b2\u0006PÃÝÀÌ¢oA",
+      "contains": [
+        "wed"
+      ]
+    },
+    "waiters": {
+      "hash": "â\u0004\nyü-Pë\u0018CoBûUõëù\u0000Y\u0010\u0007!@\rH\u0004\b§È®",
+      "contains": [
+        "cob"
+      ]
+    },
+    "wandering": {
+      "hash": "WbmEl«qý såíB\u001b^Sã÷\u000eÔ¹Ù\f\u0001Î¼t[\u0010",
+      "contains": [
+        "Mel"
+      ]
+    },
+    "wastebaskets": {
+      "hash": "@\u001a+d×_bInh+\u0004¬6¦þK(Èõ%7j5c*Mà`v",
+      "contains": [
+        "bin"
+      ]
+    },
+    "wastefulness": {
+      "hash": "ª,Á<\u001bk©ÈõqhäØ§\u0005M8»Ô/|yäÅ}}FaDQ",
+      "contains": [
+        "fad"
+      ]
+    },
+    "weaponry": {
+      "hash": "/\u0012ò% \u001fð=ðÙRj`SOWr\u001ecLíg2ð[¸¤a\u0019V",
+      "contains": [
+        "sow"
+      ]
+    },
+    "weary": {
+      "hash": "\u0017\u0002¤ºã2Öoñ£\u001eéÊHÁÅteaX·³8\u001eZR\u0001\u001eTp",
+      "contains": [
+        "tea"
+      ]
+    },
+    "weathermen": {
+      "hash": "Ü\u001cTUXlx\u000f[¥×\u0015rÈû\u0014.È\"kF{óÒI)í",
+      "contains": [
+        "tux"
+      ]
+    },
+    "weeds": {
+      "hash": "Ëµ°JBoYÐ\n¾L¯¹\u0000J\u0005à=vJ\t}õ4¨aÙê",
+      "contains": [
+        "boy"
+      ]
+    },
+    "weightiest": {
+      "hash": "9æïÌ±=Ú+ HÊÄF\f$s\u0002\u000bèse\tGunë\u001a±[i\u0004±",
+      "contains": [
+        "gun"
+      ]
+    },
+    "weird": {
+      "hash": "\u0007(ÃUÇ:\b\u0000daD(Nì\u001fË\u0014\b(7¹\u0001ôW[TiXÄ¥",
+      "contains": [
+        "dad"
+      ]
+    },
+    "wherever": {
+      "hash": "³.`%\u000b¡¡;[éC\u0001³bkiDä<ñ2ÚåÞÂ£1ð\u001d",
+      "contains": [
+        "kid"
+      ]
+    },
+    "whirlwinds": {
+      "hash": "!WköAdzÉyÉÄ½\u00024 \u001aaû{½%`Ù\u0013\"4Gm",
+      "contains": [
+        "adz"
+      ]
+    },
+    "why": {
+      "hash": "+â<X_\u0015åý2yÐf06ÝncOB%ï2oÈ?¸tÛ¸\u001a\u000f",
+      "contains": [
+        "cob"
+      ]
+    },
+    "willowy": {
+      "hash": "cztUo nOö©Í\u001f=üs]Kë\u0014»#Ë\u0019gIL<",
+      "contains": [
+        "Gil"
+      ]
+    },
+    "windstorm": {
+      "hash": "Ðåè©VßZ|èDave±G\u000bçFwT5!?PYùF\t",
+      "contains": [
+        "Dave"
+      ]
+    },
+    "wingnuts": {
+      "hash": "mIrê\u000e|?·l:¯7v\u0001¾]á*ÙpûMV­4Ô\nÏ/w",
+      "contains": [
+        "Mir"
+      ]
+    },
+    "winsome": {
+      "hash": "âÔ\u0013\u0012W¨¿ÏðA\u0000×ªÇ9RumVlé­äþ4¹ý",
+      "contains": [
+        "rum"
+      ]
+    },
+    "withhold": {
+      "hash": "ÒELM\u0016oHÃ¶\u0014\u0018+vý\u0016pÜ= ô\ná`\u0007ä½.²¡ÕÑ",
+      "contains": [
+        "elm"
+      ]
+    },
+    "witnessing": {
+      "hash": "*Lý@ìg~3\u001bgüÌ\bpigºÌê­å¥5^Ñ{»<",
+      "contains": [
+        "pig"
+      ]
+    },
+    "woodcarvings": {
+      "hash": ")%»#æljE1£q\u0018¥` äÛ;sAG~`×þ;\bC1«1",
+      "contains": [
+        "sag"
+      ]
+    },
+    "woodsmen": {
+      "hash": "ê®A\u0011éou\u0007\u0011\twF;\u0007OC\u0012PWN\u0004öw(÷Î7è\u0013",
+      "contains": [
+        "pwn"
+      ]
+    },
+    "wormholes": {
+      "hash": "ç\u0006ayö\u001bñ\u0011°ILKz8]Xê\u0011DWð\nK\u000e<=ä© ",
+      "contains": [
+        "ilk"
+      ]
+    },
+    "worthwhile": {
+      "hash": "­åò\u0019\u001f1.êo~·yd¼ë³jß[¤iFs\u000f~_v",
+      "contains": [
+        "ifs"
+      ]
+    },
+    "wreathing": {
+      "hash": "D-½Rí¦\u000e³ÚÖDusKbÓ\u0019õ+ðýb,Uë«ì",
+      "contains": [
+        "dusk"
+      ]
+    },
+    "zingers": {
+      "hash": "ðöGÓWÓ/ÅÒÂ6TAR¨D®LËÐ`,óùÝo¦´",
+      "contains": [
+        "tar"
+      ]
+    }
+  }
+}
